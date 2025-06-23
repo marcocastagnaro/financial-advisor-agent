@@ -2,6 +2,7 @@ import re
 from pathlib import Path
 
 from fastapi import FastAPI, HTTPException
+from starlette.middleware.cors import CORSMiddleware
 
 from src.service.get_tickers_from_txt import cargar_tickers_desde_txt
 from src.postDto import UserProfile
@@ -11,6 +12,13 @@ from src.service.user_profile import generar_prompt_usuario
 import json
 app = FastAPI()
 
+app.add_middleware(
+    CORSMiddleware,
+    allow_origins=["*"],
+    allow_credentials=True,
+    allow_methods=["*"],
+    allow_headers=["*"],
+)
 ASSETS_PATH = Path(__file__).resolve().parent / "data" / "assets_info.json"
 
 @app.post("/recomendar")
