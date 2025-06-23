@@ -1,0 +1,7 @@
+google-genai
+yfinance~=0.2.63
+python-dotenv~=1.1.0
+
+protobuf~=5.29.5
+fastapi~=0.103.1
+uvicorn~=0.23.2

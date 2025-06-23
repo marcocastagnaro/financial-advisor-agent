@@ -1,0 +1,194 @@
+{
+  "NVDA": {
+    "sector": "Technology",
+    "riesgo": "Alto",
+    "retorno_5a": "7.00%",
+    "descripcion": "NVIDIA Corporation, a computing infrastructure company, provides graphics and compute and networking solutions in the United States, Singapore, Taiwan, China, Hong Kong, and internationally. The Compute & Networking segment comprises Data Center computing platforms and end-to-end networking platform"
+  },
+  "GOOGL": {
+    "sector": "Communication Services",
+    "riesgo": "Alto",
+    "retorno_5a": "0.00%",
+    "descripcion": "Alphabet Inc. offers various products and platforms in the United States, Europe, the Middle East, Africa, the Asia-Pacific, Canada, and Latin America. It operates through Google Services, Google Cloud, and Other Bets segments. The Google Services segment provides products and services, including ad"
+  },
+  "META": {
+    "sector": "Communication Services",
+    "riesgo": "Alto",
+    "retorno_5a": "0.00%",
+    "descripcion": "Meta Platforms, Inc. engages in the development of products that enable people to connect and share with friends and family through mobile devices, personal computers, virtual reality and mixed reality headsets, augmented reality, and wearables worldwide. It operates through two segments, Family of "
+  },
+  "TSLA": {
+    "sector": "Consumer Cyclical",
+    "riesgo": "Alto",
+    "retorno_5a": "0.00%",
+    "descripcion": "Tesla, Inc. designs, develops, manufactures, leases, and sells electric vehicles, and energy generation and storage systems in the United States, China, and internationally. The company operates in two segments, Automotive; and Energy Generation and Storage. The Automotive segment offers electric ve"
+  },
+  "INTC": {
+    "sector": "Technology",
+    "riesgo": "Alto",
+    "retorno_5a": "279.00%",
+    "descripcion": "Intel Corporation designs, develops, manufactures, markets, and sells computing and related products and services worldwide. The company offers microprocessor and chipset, stand-alone SoC, and multichip package; Computer Systems and Devices; hardware products comprising CPUs, graphics processing uni"
+  },
+  "AMZN": {
+    "sector": "Consumer Cyclical",
+    "riesgo": "Alto",
+    "retorno_5a": "0.00%",
+    "descripcion": "Amazon.com, Inc. engages in the retail sale of consumer products, advertising, and subscriptions service through online and physical stores in North America and internationally. The company operates through three segments: North America, International, and Amazon Web Services (AWS). It also manufact"
+  },
+  "CRM": {
+    "sector": "Technology",
+    "riesgo": "Alto",
+    "retorno_5a": "0.00%",
+    "descripcion": "Salesforce, Inc. provides customer relationship management (CRM) technology that connects companies and customers together worldwide. The company offers Agentforce, an agentic layer of the salesforce platform; Data Cloud, a data engine; Industries AI for creating industry-specific AI agents with Age"
+  },
+  "ADBE": {
+    "sector": "Technology",
+    "riesgo": "Alto",
+    "retorno_5a": "12.00%",
+    "descripcion": "Adobe Inc., together with its subsidiaries, operates as a technology company worldwide. It operates through three segments: Digital Media, Digital Experience, and Publishing and Advertising. The Digital Media segment offers products and services that enable individuals, teams, and enterprises to cre"
+  },
+  "BAC": {
+    "sector": "Financial Services",
+    "riesgo": "Alto",
+    "retorno_5a": "242.00%",
+    "descripcion": "Bank of America Corporation, through its subsidiaries, provides various financial products and services for individual consumers, small and middle-market businesses, institutional investors, large corporations, and governments worldwide. The company operates through four segments: Consumer Banking, "
+  },
+  "MS": {
+    "sector": "Financial Services",
+    "riesgo": "Alto",
+    "retorno_5a": "298.00%",
+    "descripcion": "Morgan Stanley, a financial holding company, provides various financial products and services to governments, financial institutions, and individuals in the Americas, Asia, Europe, Middle East, and Africa. The company operates through Institutional Securities, Wealth Management, and Investment Manag"
+  },
+  "UNH": {
+    "sector": "Healthcare",
+    "riesgo": "Moderado",
+    "retorno_5a": "138.00%",
+    "descripcion": "UnitedHealth Group Incorporated operates as a health care company in the United States and internationally. The company operates through four segments: UnitedHealthcare, Optum Health, Optum Insight, and Optum Rx. The UnitedHealthcare segment offers consumer-oriented health benefit plans and services"
+  },
+  "GS": {
+    "sector": "Financial Services",
+    "riesgo": "Alto",
+    "retorno_5a": "228.00%",
+    "descripcion": "The Goldman Sachs Group, Inc., a financial institution, provides a range of financial services for corporations, financial institutions, governments, and individuals in the Americas, Europe, the Middle East, Africa, and Asia. It operates through Global Banking & Markets, Asset & Wealth Management, a"
+  },
+  "ABBV": {
+    "sector": "Healthcare",
+    "riesgo": "Moderado",
+    "retorno_5a": "393.00%",
+    "descripcion": "AbbVie Inc., a research-based biopharmaceutical company, engages in the research and development, manufacture, commercialization, and sale of medicines and therapies worldwide. The company offers Humira, an injection for autoimmune and intestinal Beh\u00e7et's diseases, generalized pustular psoriasis, an"
+  },
+  "MRK": {
+    "sector": "Healthcare",
+    "riesgo": "Moderado",
+    "retorno_5a": "297.00%",
+    "descripcion": "Merck & Co., Inc. operates as a healthcare company worldwide. It operates through two segments, Pharmaceutical and Animal Health. The company offers human health pharmaceutical for various areas, including oncology, vaccines, hospital acute care, cardiovascular, virology, neuroscience, and diabetes "
+  },
+  "PFE": {
+    "sector": "Healthcare",
+    "riesgo": "Moderado",
+    "retorno_5a": "454.00%",
+    "descripcion": "Pfizer Inc. discovers, develops, manufactures, markets, distributes, and sells biopharmaceutical products in the United States and internationally. The company offers medicines and vaccines in various therapeutic areas, including cardiovascular and migraine under the Eliquis, Nurtec ODT/Vydura, Zavz"
+  },
+  "CVX": {
+    "sector": "Energy",
+    "riesgo": "Moderado",
+    "retorno_5a": "437.00%",
+    "descripcion": "Chevron Corporation, through its subsidiaries, engages in the integrated energy and chemicals operations in the United States and internationally. The company operates in two segments, Upstream and Downstream. The Upstream segment engages in the exploration, development, production, and transportati"
+  },
+  "PEP": {
+    "sector": "Consumer Defensive",
+    "riesgo": "Moderado",
+    "retorno_5a": "285.00%",
+    "descripcion": "PepsiCo, Inc. engages in the manufacture, marketing, distribution, and sale of various beverages and convenient foods worldwide. The company operates through seven segments: Frito-Lay North America; Quaker Foods North America; PepsiCo Beverages North America; Latin America; Europe; Africa, Middle Ea"
+  },
+  "COP": {
+    "sector": "Energy",
+    "riesgo": "Moderado",
+    "retorno_5a": "267.00%",
+    "descripcion": "ConocoPhillips explores for, produces, transports, and markets crude oil, bitumen, natural gas, liquefied natural gas (LNG), and natural gas liquids. The company operates in six segments: Alaska; Lower 48; Canada; Europe, Middle East and North Africa; Asia Pacific; and Other International. The compa"
+  },
+  "KO": {
+    "sector": "Consumer Defensive",
+    "riesgo": "Moderado",
+    "retorno_5a": "298.00%",
+    "descripcion": "The Coca-Cola Company, a beverage company, manufactures and sells various nonalcoholic beverages in the United States and internationally. The company provides sparkling soft drinks and flavors; water, sports, coffee, and tea; juice, value-added dairy, and plant-based beverages; and other beverages."
+  },
+  "WMT": {
+    "sector": "Consumer Defensive",
+    "riesgo": "Moderado",
+    "retorno_5a": "141.00%",
+    "descripcion": "Walmart Inc. engages in the operation of retail and wholesale stores and clubs, eCommerce websites, and mobile applications worldwide. The company operates through three segments: Walmart U.S., Walmart International, and Sam's Club. It operates supercenters, supermarkets, warehouse clubs, cash and c"
+  },
+  "COST": {
+    "sector": "Consumer Defensive",
+    "riesgo": "Moderado",
+    "retorno_5a": "64.00%",
+    "descripcion": "Costco Wholesale Corporation, together with its subsidiaries, engages in the operation of membership warehouses in the United States, Puerto Rico, Canada, Mexico, Japan, the United Kingdom, Korea, Australia, Taiwan, China, Spain, France, Iceland, New Zealand, and Sweden. The company offers branded a"
+  },
+  "NKE": {
+    "sector": "Consumer Cyclical",
+    "riesgo": "Alto",
+    "retorno_5a": "122.00%",
+    "descripcion": "NIKE, Inc., together with its subsidiaries, engages in the design, development, marketing, and sale of athletic footwear, apparel, equipment, accessories, and services worldwide. The company provides athletic and casual footwear, apparel, and accessories under the NIKE, Jumpman, Converse, Chuck Tayl"
+  },
+  "HD": {
+    "sector": "Consumer Cyclical",
+    "riesgo": "Alto",
+    "retorno_5a": "229.00%",
+    "descripcion": "The Home Depot, Inc. operates as a home improvement retailer in the United States and internationally. It sells various building materials, home improvement products, lawn and garden products, and d\u00e9cor products, as well as facilities maintenance, repair, and operations products. The company also of"
+  },
+  "MCD": {
+    "sector": "Consumer Cyclical",
+    "riesgo": "Moderado",
+    "retorno_5a": "222.00%",
+    "descripcion": "McDonald's Corporation owns, operates, and franchises restaurants under the McDonald's brand in the United States and internationally. It offers food and beverages, including hamburgers and cheeseburgers, various chicken sandwiches, fries, shakes, desserts, sundaes, soft serve cones, cookies, pies, "
+  },
+  "ASML": {
+    "sector": "Technology",
+    "riesgo": "Alto",
+    "retorno_5a": "81.00%",
+    "descripcion": "ASML Holding N.V. provides lithography solutions for the development, production, marketing, sales, upgrading, and servicing of advanced semiconductor equipment systems. It offers lithography, metrology, and inspection systems. The company also provides extreme ultraviolet lithography systems; and d"
+  },
+  "LVMUY": {
+    "sector": "Consumer Cyclical",
+    "riesgo": "Alto",
+    "retorno_5a": "147.00%",
+    "descripcion": "LVMH Mo\u00ebt Hennessy - Louis Vuitton, Soci\u00e9t\u00e9 Europ\u00e9enne, together with its subsidiaries, operates as a luxury goods company worldwide. The company offers wine and spirit products under the Ao Yun, Ardbeg, Armand de Brignac, Belvedere, Bodega Numanthia, Chandon, Cheval des Andes, Ch\u00e2teau Cheval Blanc,"
+  },
+  "SNY": {
+    "sector": "Healthcare",
+    "riesgo": "Moderado",
+    "retorno_5a": "374.00%",
+    "descripcion": "Sanofi, a healthcare company, engages in the research, development, manufacture, and marketing of therapeutic solutions in the United States, Europe, and internationally. The company provides immunology and inflammation, rare diseases, neurology, oncology, and other medicines and vaccines. It also o"
+  },
+  "AZN": {
+    "sector": "Healthcare",
+    "riesgo": "Moderado",
+    "retorno_5a": "227.00%",
+    "descripcion": "AstraZeneca PLC, a biopharmaceutical company, focuses on the discovery, development, manufacture, and commercialization of prescription medicines. The company offers Imjudo, Datroway, Iressa, Tagrisso, Imfinzi, Lynparza, Calquence, Enhertu, Orpathys, Truqap, Zoladex, Faslodex, Farxiga, Brilinta, Cre"
+  },
+  "HSBC": {
+    "sector": "Financial Services",
+    "riesgo": "Moderado",
+    "retorno_5a": "608.00%",
+    "descripcion": "HSBC Holdings plc engages in the provision of banking and financial products and services worldwide. It operates through three segments: Wealth and Personal Banking, Commercial Banking, and Global Banking and Markets. The Wealth and Personal Banking segment offers retail banking and wealth products,"
+  },
+  "BAYRY": {
+    "sector": "Healthcare",
+    "riesgo": "Moderado",
+    "retorno_5a": "373.00%",
+    "descripcion": "Bayer Aktiengesellschaft operates as a life science company worldwide. The company operates through Pharmaceuticals, Consumer Health, and Crop Science segments. The Pharmaceuticals segment provides prescription products primarily for cardiology and women's health care; specialty therapeutics in the "
+  },
+  "OR": {
+    "sector": "Basic Materials",
+    "riesgo": "Moderado",
+    "retorno_5a": "124.00%",
+    "descripcion": "OR Royalties Inc. acquires and manages precious metal and other royalties, streams, and other interests in Canada and internationally. It also owns options on offtake; royalty/stream financings; and exclusive rights to participate in future royalty/stream financings on various projects. The company'"
+  },
+  "SIEGY": {
+    "sector": "Industrials",
+    "riesgo": "Alto",
+    "retorno_5a": "294.00%",
+    "descripcion": "Siemens Aktiengesellschaft, a technology company, focuses in the areas of automation and digitalization in Europe, Commonwealth of Independent States, Africa, the Middle East, the Americas, Asia, and Australia. It operates through Digital Industries, Smart Infrastructure, Mobility, Siemens Healthine"
+  }
+}
