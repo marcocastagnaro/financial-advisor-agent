@@ -25,22 +25,21 @@ Dado un perfil de usuario con información como edad, ingresos, experiencia en i
 - dotenv
 
 ## 📂 Estructura
+```
 src/
-├── data/ # Archivos de entrada/salida
-│ ├── tickers.txt # Lista de tickers a evaluar
-│ ├── assets_info.json # Info financiera generada (autogenerado)
-│ └── assets_fallidos.txt # Tickers que fallaron (autogenerado)
-├── service/ # Lógica de negocio
-│ ├── gemini_agent.py
-│ ├── retriever.py
-│ ├── get_tickers_from_txt.py
-│ └── user_profile.py
-├── main_api.py # Endpoint FastAPI
-├── main.py # Script local manual
-└── postDto.py # Modelo de entrada del usuario
-
-
-
+├── data/                      # Archivos de entrada/salida
+│   ├── tickers.txt            # Lista de tickers a evaluar
+│   ├── assets_info.json       # Info financiera generada (autogenerado)
+│   └── assets_fallidos.txt    # Tickers que fallaron (autogenerado)
+├── service/                   # Lógica de negocio
+│   ├── gemini_agent.py
+│   ├── retriever.py
+│   ├── get_tickers_from_txt.py
+│   └── user_profile.py
+├── main_api.py                # Endpoint FastAPI
+├── main.py                    # Script local manual
+└── postDto.py                 # Modelo de entrada del usuario
+```
 ## ⚙️ Instalación local
 
 1. Cloná el repositorio:
