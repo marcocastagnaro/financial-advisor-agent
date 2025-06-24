@@ -1,14 +1,14 @@
 {
-  "MSFT": {
-    "sector": "Technology",
-    "industria": "Software - Infrastructure",
+  "TSLA": {
+    "sector": "Consumer Cyclical",
+    "industria": "Auto Manufacturers",
     "pais": "United States",
     "riesgo": "Alto",
-    "retorno_5a": "83.00%",
-    "market_cap": "3,617,463,468,032.00",
-    "pe_ratio": "37.61",
-    "dividendo": "70.00%",
-    "descripcion": "Microsoft Corporation es una empresa del sector Technology, industria Software - Infrastructure, con sede en United States. Capitalizaci\u00f3n burs\u00e1til estimada: 3,617,463,468,032.00 USD. Ratio P/E: 37.61, rendimiento por dividendo: 70.00%. Microsoft Corporation develops and supports software, services, devices and solutions worldwide. The Productivity and Business Processes segment offers office, exchange, SharePoint, Microsoft Teams, office 365 Security and Compliance, Microsoft viva,"
+    "retorno_5a": "0%",
+    "market_cap": "1,133,842,268,160.00",
+    "pe_ratio": "202.31",
+    "dividendo": "0%",
+    "descripcion": "Tesla, Inc. es una empresa del sector Consumer Cyclical, industria Auto Manufacturers, con sede en United States. Capitalizaci\u00f3n burs\u00e1til estimada: 1,133,842,268,160.00 USD. Ratio P/E: 202.31, rendimiento por dividendo: 0%. Tesla, Inc. designs, develops, manufactures, leases, and sells electric vehicles, and energy generation and storage systems in the United States, China, and internationally. The company operates in two segments, Automotive; and Energy Generation and "
   },
   "AMZN": {
     "sector": "Consumer Cyclical",
@@ -16,32 +16,10 @@
     "pais": "United States",
     "riesgo": "Alto",
     "retorno_5a": "0%",
-    "market_cap": "2,222,437,171,200.00",
+    "market_cap": "2,222,012,497,920.00",
     "pe_ratio": "34.09",
     "dividendo": "0%",
-    "descripcion": "Amazon.com, Inc. es una empresa del sector Consumer Cyclical, industria Internet Retail, con sede en United States. Capitalizaci\u00f3n burs\u00e1til estimada: 2,222,437,171,200.00 USD. Ratio P/E: 34.09, rendimiento por dividendo: 0%. Amazon.com, Inc. engages in the retail sale of consumer products, advertising, and subscriptions service through online and physical stores in North America and internationally. The company operates through three segments: North America, Internationa"
-  },
-  "AAPL": {
-    "sector": "Technology",
-    "industria": "Consumer Electronics",
-    "pais": "United States",
-    "riesgo": "Alto",
-    "retorno_5a": "56.00%",
-    "market_cap": "3,011,729,424,384.00",
-    "pe_ratio": "31.46",
-    "dividendo": "52.00%",
-    "descripcion": "Apple Inc. es una empresa del sector Technology, industria Consumer Electronics, con sede en United States. Capitalizaci\u00f3n burs\u00e1til estimada: 3,011,729,424,384.00 USD. Ratio P/E: 31.46, rendimiento por dividendo: 52.00%. Apple Inc. designs, manufactures, and markets smartphones, personal computers, tablets, wearables, and accessories worldwide. The company offers iPhone, a line of smartphones; Mac, a line of personal computers; iPad, a line of multi-purpose tablets; "
-  },
-  "TSLA": {
-    "sector": "Consumer Cyclical",
-    "industria": "Auto Manufacturers",
-    "pais": "United States",
-    "riesgo": "Alto",
-    "retorno_5a": "0%",
-    "market_cap": "1,133,959,577,600.00",
-    "pe_ratio": "202.33",
-    "dividendo": "0%",
-    "descripcion": "Tesla, Inc. es una empresa del sector Consumer Cyclical, industria Auto Manufacturers, con sede en United States. Capitalizaci\u00f3n burs\u00e1til estimada: 1,133,959,577,600.00 USD. Ratio P/E: 202.33, rendimiento por dividendo: 0%. Tesla, Inc. designs, develops, manufactures, leases, and sells electric vehicles, and energy generation and storage systems in the United States, China, and internationally. The company operates in two segments, Automotive; and Energy Generation and "
+    "descripcion": "Amazon.com, Inc. es una empresa del sector Consumer Cyclical, industria Internet Retail, con sede en United States. Capitalizaci\u00f3n burs\u00e1til estimada: 2,222,012,497,920.00 USD. Ratio P/E: 34.09, rendimiento por dividendo: 0%. Amazon.com, Inc. engages in the retail sale of consumer products, advertising, and subscriptions service through online and physical stores in North America and internationally. The company operates through three segments: North America, Internationa"
   },
   "GOOGL": {
     "sector": "Communication Services",
@@ -49,10 +27,21 @@
     "pais": "United States",
     "riesgo": "Alto",
     "retorno_5a": "0%",
-    "market_cap": "1,991,641,530,368.00",
-    "pe_ratio": "18.24",
+    "market_cap": "1,991,945,748,480.00",
+    "pe_ratio": "18.25",
     "dividendo": "50.00%",
-    "descripcion": "Alphabet Inc. es una empresa del sector Communication Services, industria Internet Content & Information, con sede en United States. Capitalizaci\u00f3n burs\u00e1til estimada: 1,991,641,530,368.00 USD. Ratio P/E: 18.24, rendimiento por dividendo: 50.00%. Alphabet Inc. offers various products and platforms in the United States, Europe, the Middle East, Africa, the Asia-Pacific, Canada, and Latin America. It operates through Google Services, Google Cloud, and Other Bets segments. The Google Services se"
+    "descripcion": "Alphabet Inc. es una empresa del sector Communication Services, industria Internet Content & Information, con sede en United States. Capitalizaci\u00f3n burs\u00e1til estimada: 1,991,945,748,480.00 USD. Ratio P/E: 18.25, rendimiento por dividendo: 50.00%. Alphabet Inc. offers various products and platforms in the United States, Europe, the Middle East, Africa, the Asia-Pacific, Canada, and Latin America. It operates through Google Services, Google Cloud, and Other Bets segments. The Google Services se"
+  },
+  "MSFT": {
+    "sector": "Technology",
+    "industria": "Software - Infrastructure",
+    "pais": "United States",
+    "riesgo": "Alto",
+    "retorno_5a": "83.00%",
+    "market_cap": "3,617,120,059,392.00",
+    "pe_ratio": "37.61",
+    "dividendo": "70.00%",
+    "descripcion": "Microsoft Corporation es una empresa del sector Technology, industria Software - Infrastructure, con sede en United States. Capitalizaci\u00f3n burs\u00e1til estimada: 3,617,120,059,392.00 USD. Ratio P/E: 37.61, rendimiento por dividendo: 70.00%. Microsoft Corporation develops and supports software, services, devices and solutions worldwide. The Productivity and Business Processes segment offers office, exchange, SharePoint, Microsoft Teams, office 365 Security and Compliance, Microsoft viva,"
   },
   "NVDA": {
     "sector": "Technology",
@@ -60,21 +49,10 @@
     "pais": "United States",
     "riesgo": "Alto",
     "retorno_5a": "7.00%",
-    "market_cap": "3,517,052,878,848.00",
-    "pe_ratio": "46.37",
+    "market_cap": "3,515,065,303,040.00",
+    "pe_ratio": "46.35",
     "dividendo": "3.00%",
-    "descripcion": "NVIDIA Corporation es una empresa del sector Technology, industria Semiconductors, con sede en United States. Capitalizaci\u00f3n burs\u00e1til estimada: 3,517,052,878,848.00 USD. Ratio P/E: 46.37, rendimiento por dividendo: 3.00%. NVIDIA Corporation, a computing infrastructure company, provides graphics and compute and networking solutions in the United States, Singapore, Taiwan, China, Hong Kong, and internationally. The Compute & Networking segment comprises Data Center comp"
-  },
-  "META": {
-    "sector": "Communication Services",
-    "industria": "Internet Content & Information",
-    "pais": "United States",
-    "riesgo": "Alto",
-    "retorno_5a": "0%",
-    "market_cap": "1,749,319,942,144.00",
-    "pe_ratio": "27.19",
-    "dividendo": "31.00%",
-    "descripcion": "Meta Platforms, Inc. es una empresa del sector Communication Services, industria Internet Content & Information, con sede en United States. Capitalizaci\u00f3n burs\u00e1til estimada: 1,749,319,942,144.00 USD. Ratio P/E: 27.19, rendimiento por dividendo: 31.00%. Meta Platforms, Inc. engages in the development of products that enable people to connect and share with friends and family through mobile devices, personal computers, virtual reality and mixed reality headsets, augmented reality, and wearables world"
+    "descripcion": "NVIDIA Corporation es una empresa del sector Technology, industria Semiconductors, con sede en United States. Capitalizaci\u00f3n burs\u00e1til estimada: 3,515,065,303,040.00 USD. Ratio P/E: 46.35, rendimiento por dividendo: 3.00%. NVIDIA Corporation, a computing infrastructure company, provides graphics and compute and networking solutions in the United States, Singapore, Taiwan, China, Hong Kong, and internationally. The Compute & Networking segment comprises Data Center comp"
   },
   "ADBE": {
     "sector": "Technology",
@@ -82,10 +60,10 @@
     "pais": "United States",
     "riesgo": "Alto",
     "retorno_5a": "12.00%",
-    "market_cap": "160,967,639,040.00",
-    "pe_ratio": "24.21",
+    "market_cap": "160,860,667,904.00",
+    "pe_ratio": "24.19",
     "dividendo": "0%",
-    "descripcion": "Adobe Inc. es una empresa del sector Technology, industria Software - Application, con sede en United States. Capitalizaci\u00f3n burs\u00e1til estimada: 160,967,639,040.00 USD. Ratio P/E: 24.21, rendimiento por dividendo: 0%. Adobe Inc., together with its subsidiaries, operates as a technology company worldwide. It operates through three segments: Digital Media, Digital Experience, and Publishing and Advertising. The Digital Media segment offers products and services that"
+    "descripcion": "Adobe Inc. es una empresa del sector Technology, industria Software - Application, con sede en United States. Capitalizaci\u00f3n burs\u00e1til estimada: 160,860,667,904.00 USD. Ratio P/E: 24.19, rendimiento por dividendo: 0%. Adobe Inc., together with its subsidiaries, operates as a technology company worldwide. It operates through three segments: Digital Media, Digital Experience, and Publishing and Advertising. The Digital Media segment offers products and services that"
   },
   "CRM": {
     "sector": "Technology",
@@ -93,10 +71,32 @@
     "pais": "United States",
     "riesgo": "Alto",
     "retorno_5a": "0%",
-    "market_cap": "250,644,070,400.00",
-    "pe_ratio": "41.03",
+    "market_cap": "250,558,038,016.00",
+    "pe_ratio": "41.02",
     "dividendo": "64.00%",
-    "descripcion": "Salesforce, Inc. es una empresa del sector Technology, industria Software - Application, con sede en United States. Capitalizaci\u00f3n burs\u00e1til estimada: 250,644,070,400.00 USD. Ratio P/E: 41.03, rendimiento por dividendo: 64.00%. Salesforce, Inc. provides customer relationship management (CRM) technology that connects companies and customers together worldwide. The company offers Agentforce, an agentic layer of the salesforce platform; Data Cloud, a data engine; Industries AI"
+    "descripcion": "Salesforce, Inc. es una empresa del sector Technology, industria Software - Application, con sede en United States. Capitalizaci\u00f3n burs\u00e1til estimada: 250,558,038,016.00 USD. Ratio P/E: 41.02, rendimiento por dividendo: 64.00%. Salesforce, Inc. provides customer relationship management (CRM) technology that connects companies and customers together worldwide. The company offers Agentforce, an agentic layer of the salesforce platform; Data Cloud, a data engine; Industries AI"
+  },
+  "META": {
+    "sector": "Communication Services",
+    "industria": "Internet Content & Information",
+    "pais": "United States",
+    "riesgo": "Alto",
+    "retorno_5a": "0%",
+    "market_cap": "1,749,294,776,320.00",
+    "pe_ratio": "27.19",
+    "dividendo": "31.00%",
+    "descripcion": "Meta Platforms, Inc. es una empresa del sector Communication Services, industria Internet Content & Information, con sede en United States. Capitalizaci\u00f3n burs\u00e1til estimada: 1,749,294,776,320.00 USD. Ratio P/E: 27.19, rendimiento por dividendo: 31.00%. Meta Platforms, Inc. engages in the development of products that enable people to connect and share with friends and family through mobile devices, personal computers, virtual reality and mixed reality headsets, augmented reality, and wearables world"
+  },
+  "INTC": {
+    "sector": "Technology",
+    "industria": "Semiconductors",
+    "pais": "United States",
+    "riesgo": "Alto",
+    "retorno_5a": "279.00%",
+    "market_cap": "91,885,527,040.00",
+    "pe_ratio": "N/A",
+    "dividendo": "0%",
+    "descripcion": "Intel Corporation es una empresa del sector Technology, industria Semiconductors, con sede en United States. Capitalizaci\u00f3n burs\u00e1til estimada: 91,885,527,040.00 USD. Ratio P/E: N/A, rendimiento por dividendo: 0%. Intel Corporation designs, develops, manufactures, markets, and sells computing and related products and services worldwide. The company offers microprocessor and chipset, stand-alone SoC, and multichip package; Computer Systems and Devices; hardware"
   },
   "BRK-B": {
     "sector": "Financial Services",
@@ -104,10 +104,10 @@
     "pais": "United States",
     "riesgo": "Moderado",
     "retorno_5a": "0%",
-    "market_cap": "1,047,486,595,072.00",
+    "market_cap": "1,047,659,479,040.00",
     "pe_ratio": "12.92",
     "dividendo": "0%",
-    "descripcion": "Berkshire Hathaway Inc. es una empresa del sector Financial Services, industria Insurance - Diversified, con sede en United States. Capitalizaci\u00f3n burs\u00e1til estimada: 1,047,486,595,072.00 USD. Ratio P/E: 12.92, rendimiento por dividendo: 0%. Berkshire Hathaway Inc., through its subsidiaries, engages in the insurance, freight rail transportation, and utility businesses worldwide. The company provides property, casualty, life, accident, and health insurance and reinsurance; operates railro"
+    "descripcion": "Berkshire Hathaway Inc. es una empresa del sector Financial Services, industria Insurance - Diversified, con sede en United States. Capitalizaci\u00f3n burs\u00e1til estimada: 1,047,659,479,040.00 USD. Ratio P/E: 12.92, rendimiento por dividendo: 0%. Berkshire Hathaway Inc., through its subsidiaries, engages in the insurance, freight rail transportation, and utility businesses worldwide. The company provides property, casualty, life, accident, and health insurance and reinsurance; operates railro"
   },
   "JPM": {
     "sector": "Financial Services",
@@ -120,17 +120,6 @@
     "dividendo": "204.00%",
     "descripcion": "JPMorgan Chase & Co. es una empresa del sector Financial Services, industria Banks - Diversified, con sede en United States. Capitalizaci\u00f3n burs\u00e1til estimada: 768,446,169,088.00 USD. Ratio P/E: 13.57, rendimiento por dividendo: 204.00%. JPMorgan Chase & Co. operates as a financial services company worldwide. It operates through three segments: Consumer & Community Banking, Commercial & Investment Bank, and Asset & Wealth Management. The company offers deposit, investment and lending"
   },
-  "INTC": {
-    "sector": "N/A",
-    "industria": "N/A",
-    "pais": "N/A",
-    "riesgo": "Moderado",
-    "retorno_5a": "0%",
-    "market_cap": "91,950,956,544.00",
-    "pe_ratio": "N/A",
-    "dividendo": "0%",
-    "descripcion": "Intel Corporation es una empresa del sector N/A, industria N/A, con sede en N/A. Capitalizaci\u00f3n burs\u00e1til estimada: 91,950,956,544.00 USD. Ratio P/E: N/A, rendimiento por dividendo: 0%. INTC es un activo financiero relevante."
-  },
   "BAC": {
     "sector": "Financial Services",
     "industria": "Banks - Diversified",
@@ -142,49 +131,27 @@
     "dividendo": "229.00%",
     "descripcion": "Bank of America Corporation es una empresa del sector Financial Services, industria Banks - Diversified, con sede en United States. Capitalizaci\u00f3n burs\u00e1til estimada: 346,278,166,528.00 USD. Ratio P/E: 13.72, rendimiento por dividendo: 229.00%. Bank of America Corporation, through its subsidiaries, provides various financial products and services for individual consumers, small and middle-market businesses, institutional investors, large corporations, and governments worldwide. The company "
   },
-  "GS": {
-    "sector": "Financial Services",
-    "industria": "Capital Markets",
-    "pais": "United States",
-    "riesgo": "Alto",
-    "retorno_5a": "228.00%",
-    "market_cap": "197,670,043,648.00",
-    "pe_ratio": "14.96",
-    "dividendo": "187.00%",
-    "descripcion": "The Goldman Sachs Group, Inc. es una empresa del sector Financial Services, industria Capital Markets, con sede en United States. Capitalizaci\u00f3n burs\u00e1til estimada: 197,670,043,648.00 USD. Ratio P/E: 14.96, rendimiento por dividendo: 187.00%. The Goldman Sachs Group, Inc., a financial institution, provides a range of financial services for corporations, financial institutions, governments, and individuals in the Americas, Europe, the Middle East, Africa, and Asia. It operates through Glob"
-  },
   "MS": {
     "sector": "Financial Services",
     "industria": "Capital Markets",
     "pais": "United States",
     "riesgo": "Alto",
     "retorno_5a": "298.00%",
-    "market_cap": "213,936,078,848.00",
+    "market_cap": "213,855,862,784.00",
     "pe_ratio": "15.63",
     "dividendo": "279.00%",
-    "descripcion": "Morgan Stanley es una empresa del sector Financial Services, industria Capital Markets, con sede en United States. Capitalizaci\u00f3n burs\u00e1til estimada: 213,936,078,848.00 USD. Ratio P/E: 15.63, rendimiento por dividendo: 279.00%. Morgan Stanley, a financial holding company, provides various financial products and services to governments, financial institutions, and individuals in the Americas, Asia, Europe, Middle East, and Africa. The company operates through Institutional S"
+    "descripcion": "Morgan Stanley es una empresa del sector Financial Services, industria Capital Markets, con sede en United States. Capitalizaci\u00f3n burs\u00e1til estimada: 213,855,862,784.00 USD. Ratio P/E: 15.63, rendimiento por dividendo: 279.00%. Morgan Stanley, a financial holding company, provides various financial products and services to governments, financial institutions, and individuals in the Americas, Asia, Europe, Middle East, and Africa. The company operates through Institutional S"
   },
-  "PFE": {
-    "sector": "Healthcare",
-    "industria": "Drug Manufacturers - General",
+  "GS": {
+    "sector": "Financial Services",
+    "industria": "Capital Markets",
     "pais": "United States",
-    "riesgo": "Moderado",
-    "retorno_5a": "454.00%",
-    "market_cap": "136,022,466,560.00",
-    "pe_ratio": "17.34",
-    "dividendo": "718.00%",
-    "descripcion": "Pfizer Inc. es una empresa del sector Healthcare, industria Drug Manufacturers - General, con sede en United States. Capitalizaci\u00f3n burs\u00e1til estimada: 136,022,466,560.00 USD. Ratio P/E: 17.34, rendimiento por dividendo: 718.00%. Pfizer Inc. discovers, develops, manufactures, markets, distributes, and sells biopharmaceutical products in the United States and internationally. The company offers medicines and vaccines in various therapeutic areas, including cardiovascular and m"
-  },
-  "UNH": {
-    "sector": "Healthcare",
-    "industria": "Healthcare Plans",
-    "pais": "United States",
-    "riesgo": "Moderado",
-    "retorno_5a": "138.00%",
-    "market_cap": "272,350,724,096.00",
-    "pe_ratio": "12.57",
-    "dividendo": "293.00%",
-    "descripcion": "UnitedHealth Group Incorporated es una empresa del sector Healthcare, industria Healthcare Plans, con sede en United States. Capitalizaci\u00f3n burs\u00e1til estimada: 272,350,724,096.00 USD. Ratio P/E: 12.57, rendimiento por dividendo: 293.00%. UnitedHealth Group Incorporated operates as a health care company in the United States and internationally. The company operates through four segments: UnitedHealthcare, Optum Health, Optum Insight, and Optum Rx. The UnitedHealthcare segment offers c"
+    "riesgo": "Alto",
+    "retorno_5a": "228.00%",
+    "market_cap": "197,643,960,320.00",
+    "pe_ratio": "14.96",
+    "dividendo": "187.00%",
+    "descripcion": "The Goldman Sachs Group, Inc. es una empresa del sector Financial Services, industria Capital Markets, con sede en United States. Capitalizaci\u00f3n burs\u00e1til estimada: 197,643,960,320.00 USD. Ratio P/E: 14.96, rendimiento por dividendo: 187.00%. The Goldman Sachs Group, Inc., a financial institution, provides a range of financial services for corporations, financial institutions, governments, and individuals in the Americas, Europe, the Middle East, Africa, and Asia. It operates through Glob"
   },
   "AXP": {
     "sector": "Financial Services",
@@ -192,43 +159,32 @@
     "pais": "United States",
     "riesgo": "Alto",
     "retorno_5a": "121.00%",
-    "market_cap": "208,978,690,048.00",
+    "market_cap": "209,034,739,712.00",
     "pe_ratio": "20.82",
     "dividendo": "110.00%",
-    "descripcion": "American Express Company es una empresa del sector Financial Services, industria Credit Services, con sede en United States. Capitalizaci\u00f3n burs\u00e1til estimada: 208,978,690,048.00 USD. Ratio P/E: 20.82, rendimiento por dividendo: 110.00%. American Express Company, together with its subsidiaries, operates as integrated payments company in the United States, Europe, the Middle East and Africa, the Asia Pacific, Australia, New Zealand, Latin America, Canada, the Caribbean, and Internatio"
+    "descripcion": "American Express Company es una empresa del sector Financial Services, industria Credit Services, con sede en United States. Capitalizaci\u00f3n burs\u00e1til estimada: 209,034,739,712.00 USD. Ratio P/E: 20.82, rendimiento por dividendo: 110.00%. American Express Company, together with its subsidiaries, operates as integrated payments company in the United States, Europe, the Middle East and Africa, the Asia Pacific, Australia, New Zealand, Latin America, Canada, the Caribbean, and Internatio"
   },
-  "MRK": {
+  "UNH": {
+    "sector": "Healthcare",
+    "industria": "Healthcare Plans",
+    "pais": "United States",
+    "riesgo": "Moderado",
+    "retorno_5a": "138.00%",
+    "market_cap": "271,692,955,648.00",
+    "pe_ratio": "12.54",
+    "dividendo": "293.00%",
+    "descripcion": "UnitedHealth Group Incorporated es una empresa del sector Healthcare, industria Healthcare Plans, con sede en United States. Capitalizaci\u00f3n burs\u00e1til estimada: 271,692,955,648.00 USD. Ratio P/E: 12.54, rendimiento por dividendo: 293.00%. UnitedHealth Group Incorporated operates as a health care company in the United States and internationally. The company operates through four segments: UnitedHealthcare, Optum Health, Optum Insight, and Optum Rx. The UnitedHealthcare segment offers c"
+  },
+  "PFE": {
     "sector": "Healthcare",
     "industria": "Drug Manufacturers - General",
     "pais": "United States",
     "riesgo": "Moderado",
-    "retorno_5a": "297.00%",
-    "market_cap": "199,601,766,400.00",
-    "pe_ratio": "11.55",
-    "dividendo": "410.00%",
-    "descripcion": "Merck & Co., Inc. es una empresa del sector Healthcare, industria Drug Manufacturers - General, con sede en United States. Capitalizaci\u00f3n burs\u00e1til estimada: 199,601,766,400.00 USD. Ratio P/E: 11.55, rendimiento por dividendo: 410.00%. Merck & Co., Inc. operates as a healthcare company worldwide. It operates through two segments, Pharmaceutical and Animal Health. The company offers human health pharmaceutical for various areas, including oncology, vaccines, hospital acute care, car"
-  },
-  "ABBV": {
-    "sector": "Healthcare",
-    "industria": "Drug Manufacturers - General",
-    "pais": "United States",
-    "riesgo": "Moderado",
-    "retorno_5a": "393.00%",
-    "market_cap": "322,880,241,664.00",
-    "pe_ratio": "78.45",
-    "dividendo": "354.00%",
-    "descripcion": "AbbVie Inc. es una empresa del sector Healthcare, industria Drug Manufacturers - General, con sede en United States. Capitalizaci\u00f3n burs\u00e1til estimada: 322,880,241,664.00 USD. Ratio P/E: 78.45, rendimiento por dividendo: 354.00%. AbbVie Inc., a research-based biopharmaceutical company, engages in the research and development, manufacture, commercialization, and sale of medicines and therapies worldwide. The company offers Humira, an injection for autoimmune and intestinal Beh"
-  },
-  "XOM": {
-    "sector": "Energy",
-    "industria": "Oil & Gas Integrated",
-    "pais": "United States",
-    "riesgo": "Moderado",
-    "retorno_5a": "467.00%",
-    "market_cap": "481,009,270,784.00",
-    "pe_ratio": "14.80",
-    "dividendo": "345.00%",
-    "descripcion": "Exxon Mobil Corporation es una empresa del sector Energy, industria Oil & Gas Integrated, con sede en United States. Capitalizaci\u00f3n burs\u00e1til estimada: 481,009,270,784.00 USD. Ratio P/E: 14.80, rendimiento por dividendo: 345.00%. Exxon Mobil Corporation engages in the exploration and production of crude oil and natural gas in the United States, Canada, the United Kingdom, Singapore, France, and internationally. It operates through Upstream, Energy Products, Chemical Products,"
+    "retorno_5a": "454.00%",
+    "market_cap": "135,965,622,272.00",
+    "pe_ratio": "17.33",
+    "dividendo": "718.00%",
+    "descripcion": "Pfizer Inc. es una empresa del sector Healthcare, industria Drug Manufacturers - General, con sede en United States. Capitalizaci\u00f3n burs\u00e1til estimada: 135,965,622,272.00 USD. Ratio P/E: 17.33, rendimiento por dividendo: 718.00%. Pfizer Inc. discovers, develops, manufactures, markets, distributes, and sells biopharmaceutical products in the United States and internationally. The company offers medicines and vaccines in various therapeutic areas, including cardiovascular and m"
   },
   "JNJ": {
     "sector": "Healthcare",
@@ -236,21 +192,21 @@
     "pais": "United States",
     "riesgo": "Moderado",
     "retorno_5a": "277.00%",
-    "market_cap": "361,704,521,728.00",
+    "market_cap": "361,560,375,296.00",
     "pe_ratio": "16.72",
     "dividendo": "347.00%",
-    "descripcion": "Johnson & Johnson es una empresa del sector Healthcare, industria Drug Manufacturers - General, con sede en United States. Capitalizaci\u00f3n burs\u00e1til estimada: 361,704,521,728.00 USD. Ratio P/E: 16.72, rendimiento por dividendo: 347.00%. Johnson & Johnson, together with its subsidiaries, engages in the research and development, manufacture, and sale of various products in the healthcare field worldwide. It operates in two segments, Innovative Medicine and MedTech. The Innovative Medi"
+    "descripcion": "Johnson & Johnson es una empresa del sector Healthcare, industria Drug Manufacturers - General, con sede en United States. Capitalizaci\u00f3n burs\u00e1til estimada: 361,560,375,296.00 USD. Ratio P/E: 16.72, rendimiento por dividendo: 347.00%. Johnson & Johnson, together with its subsidiaries, engages in the research and development, manufacture, and sale of various products in the healthcare field worldwide. It operates in two segments, Innovative Medicine and MedTech. The Innovative Medi"
   },
-  "COP": {
-    "sector": "Energy",
-    "industria": "Oil & Gas E&P",
+  "ABBV": {
+    "sector": "Healthcare",
+    "industria": "Drug Manufacturers - General",
     "pais": "United States",
     "riesgo": "Moderado",
-    "retorno_5a": "267.00%",
-    "market_cap": "115,895,549,952.00",
-    "pe_ratio": "11.64",
-    "dividendo": "329.00%",
-    "descripcion": "ConocoPhillips es una empresa del sector Energy, industria Oil & Gas E&P, con sede en United States. Capitalizaci\u00f3n burs\u00e1til estimada: 115,895,549,952.00 USD. Ratio P/E: 11.64, rendimiento por dividendo: 329.00%. ConocoPhillips explores for, produces, transports, and markets crude oil, bitumen, natural gas, liquefied natural gas (LNG), and natural gas liquids. The company operates in six segments: Alaska; Lower 48; Canada; Europe, Middle East and North Africa"
+    "retorno_5a": "393.00%",
+    "market_cap": "322,632,941,568.00",
+    "pe_ratio": "78.39",
+    "dividendo": "354.00%",
+    "descripcion": "AbbVie Inc. es una empresa del sector Healthcare, industria Drug Manufacturers - General, con sede en United States. Capitalizaci\u00f3n burs\u00e1til estimada: 322,632,941,568.00 USD. Ratio P/E: 78.39, rendimiento por dividendo: 354.00%. AbbVie Inc., a research-based biopharmaceutical company, engages in the research and development, manufacture, commercialization, and sale of medicines and therapies worldwide. The company offers Humira, an injection for autoimmune and intestinal Beh"
   },
   "CVX": {
     "sector": "Energy",
@@ -258,32 +214,43 @@
     "pais": "United States",
     "riesgo": "Moderado",
     "retorno_5a": "437.00%",
-    "market_cap": "254,377,984,000.00",
-    "pe_ratio": "16.78",
+    "market_cap": "254,074,847,232.00",
+    "pe_ratio": "16.76",
     "dividendo": "457.00%",
-    "descripcion": "Chevron Corporation es una empresa del sector Energy, industria Oil & Gas Integrated, con sede en United States. Capitalizaci\u00f3n burs\u00e1til estimada: 254,377,984,000.00 USD. Ratio P/E: 16.78, rendimiento por dividendo: 457.00%. Chevron Corporation, through its subsidiaries, engages in the integrated energy and chemicals operations in the United States and internationally. The company operates in two segments, Upstream and Downstream. The Upstream segment engages in the expl"
+    "descripcion": "Chevron Corporation es una empresa del sector Energy, industria Oil & Gas Integrated, con sede en United States. Capitalizaci\u00f3n burs\u00e1til estimada: 254,074,847,232.00 USD. Ratio P/E: 16.76, rendimiento por dividendo: 457.00%. Chevron Corporation, through its subsidiaries, engages in the integrated energy and chemicals operations in the United States and internationally. The company operates in two segments, Upstream and Downstream. The Upstream segment engages in the expl"
   },
-  "KO": {
-    "sector": "Consumer Defensive",
-    "industria": "Beverages - Non-Alcoholic",
+  "MRK": {
+    "sector": "N/A",
+    "industria": "N/A",
+    "pais": "N/A",
+    "riesgo": "Moderado",
+    "retorno_5a": "0%",
+    "market_cap": "199,626,883,072.00",
+    "pe_ratio": "11.56",
+    "dividendo": "410.00%",
+    "descripcion": "Merck & Co., Inc. es una empresa del sector N/A, industria N/A, con sede en N/A. Capitalizaci\u00f3n burs\u00e1til estimada: 199,626,883,072.00 USD. Ratio P/E: 11.56, rendimiento por dividendo: 410.00%. MRK es un activo financiero relevante."
+  },
+  "XOM": {
+    "sector": "Energy",
+    "industria": "Oil & Gas Integrated",
     "pais": "United States",
     "riesgo": "Moderado",
-    "retorno_5a": "298.00%",
-    "market_cap": "298,436,558,848.00",
-    "pe_ratio": "27.85",
-    "dividendo": "296.00%",
-    "descripcion": "The Coca-Cola Company es una empresa del sector Consumer Defensive, industria Beverages - Non-Alcoholic, con sede en United States. Capitalizaci\u00f3n burs\u00e1til estimada: 298,436,558,848.00 USD. Ratio P/E: 27.85, rendimiento por dividendo: 296.00%. The Coca-Cola Company, a beverage company, manufactures and sells various nonalcoholic beverages in the United States and internationally. The company provides sparkling soft drinks and flavors; water, sports, coffee, and tea; juice, value-added dair"
+    "retorno_5a": "467.00%",
+    "market_cap": "480,826,556,416.00",
+    "pe_ratio": "14.80",
+    "dividendo": "345.00%",
+    "descripcion": "Exxon Mobil Corporation es una empresa del sector Energy, industria Oil & Gas Integrated, con sede en United States. Capitalizaci\u00f3n burs\u00e1til estimada: 480,826,556,416.00 USD. Ratio P/E: 14.80, rendimiento por dividendo: 345.00%. Exxon Mobil Corporation engages in the exploration and production of crude oil and natural gas in the United States, Canada, the United Kingdom, Singapore, France, and internationally. It operates through Upstream, Energy Products, Chemical Products,"
   },
-  "PEP": {
-    "sector": "Consumer Defensive",
-    "industria": "Beverages - Non-Alcoholic",
+  "COP": {
+    "sector": "Energy",
+    "industria": "Oil & Gas E&P",
     "pais": "United States",
     "riesgo": "Moderado",
-    "retorno_5a": "285.00%",
-    "market_cap": "175,909,552,128.00",
-    "pe_ratio": "18.87",
-    "dividendo": "441.00%",
-    "descripcion": "PepsiCo, Inc. es una empresa del sector Consumer Defensive, industria Beverages - Non-Alcoholic, con sede en United States. Capitalizaci\u00f3n burs\u00e1til estimada: 175,909,552,128.00 USD. Ratio P/E: 18.87, rendimiento por dividendo: 441.00%. PepsiCo, Inc. engages in the manufacture, marketing, distribution, and sale of various beverages and convenient foods worldwide. The company operates through seven segments: Frito-Lay North America; Quaker Foods North America; PepsiCo Beverages North"
+    "retorno_5a": "267.00%",
+    "market_cap": "115,863,986,176.00",
+    "pe_ratio": "11.63",
+    "dividendo": "329.00%",
+    "descripcion": "ConocoPhillips es una empresa del sector Energy, industria Oil & Gas E&P, con sede en United States. Capitalizaci\u00f3n burs\u00e1til estimada: 115,863,986,176.00 USD. Ratio P/E: 11.63, rendimiento por dividendo: 329.00%. ConocoPhillips explores for, produces, transports, and markets crude oil, bitumen, natural gas, liquefied natural gas (LNG), and natural gas liquids. The company operates in six segments: Alaska; Lower 48; Canada; Europe, Middle East and North Africa"
   },
   "SLB": {
     "sector": "Energy",
@@ -291,10 +258,32 @@
     "pais": "United States",
     "riesgo": "Alto",
     "retorno_5a": "225.00%",
-    "market_cap": "45,865,091,072.00",
-    "pe_ratio": "11.51",
+    "market_cap": "45,811,052,544.00",
+    "pe_ratio": "11.49",
     "dividendo": "318.00%",
-    "descripcion": "Schlumberger Limited es una empresa del sector Energy, industria Oil & Gas Equipment & Services, con sede en United States. Capitalizaci\u00f3n burs\u00e1til estimada: 45,865,091,072.00 USD. Ratio P/E: 11.51, rendimiento por dividendo: 318.00%. Schlumberger Limited engages in the provision of technology for the energy industry worldwide. The company operates through four divisions: Digital & Integration, Reservoir Performance, Well Construction, and Production Systems. The company provides "
+    "descripcion": "Schlumberger Limited es una empresa del sector Energy, industria Oil & Gas Equipment & Services, con sede en United States. Capitalizaci\u00f3n burs\u00e1til estimada: 45,811,052,544.00 USD. Ratio P/E: 11.49, rendimiento por dividendo: 318.00%. Schlumberger Limited engages in the provision of technology for the energy industry worldwide. The company operates through four divisions: Digital & Integration, Reservoir Performance, Well Construction, and Production Systems. The company provides "
+  },
+  "KO": {
+    "sector": "Consumer Defensive",
+    "industria": "Beverages - Non-Alcoholic",
+    "pais": "United States",
+    "riesgo": "Moderado",
+    "retorno_5a": "298.00%",
+    "market_cap": "298,479,583,232.00",
+    "pe_ratio": "27.85",
+    "dividendo": "296.00%",
+    "descripcion": "The Coca-Cola Company es una empresa del sector Consumer Defensive, industria Beverages - Non-Alcoholic, con sede en United States. Capitalizaci\u00f3n burs\u00e1til estimada: 298,479,583,232.00 USD. Ratio P/E: 27.85, rendimiento por dividendo: 296.00%. The Coca-Cola Company, a beverage company, manufactures and sells various nonalcoholic beverages in the United States and internationally. The company provides sparkling soft drinks and flavors; water, sports, coffee, and tea; juice, value-added dair"
+  },
+  "PEP": {
+    "sector": "Consumer Defensive",
+    "industria": "Beverages - Non-Alcoholic",
+    "pais": "United States",
+    "riesgo": "Moderado",
+    "retorno_5a": "285.00%",
+    "market_cap": "175,918,465,024.00",
+    "pe_ratio": "18.87",
+    "dividendo": "441.00%",
+    "descripcion": "PepsiCo, Inc. es una empresa del sector Consumer Defensive, industria Beverages - Non-Alcoholic, con sede en United States. Capitalizaci\u00f3n burs\u00e1til estimada: 175,918,465,024.00 USD. Ratio P/E: 18.87, rendimiento por dividendo: 441.00%. PepsiCo, Inc. engages in the manufacture, marketing, distribution, and sale of various beverages and convenient foods worldwide. The company operates through seven segments: Frito-Lay North America; Quaker Foods North America; PepsiCo Beverages North"
   },
   "PG": {
     "sector": "Consumer Defensive",
@@ -302,21 +291,10 @@
     "pais": "United States",
     "riesgo": "Moderado",
     "retorno_5a": "239.00%",
-    "market_cap": "375,372,546,048.00",
-    "pe_ratio": "25.41",
+    "market_cap": "375,454,629,888.00",
+    "pe_ratio": "25.42",
     "dividendo": "266.00%",
-    "descripcion": "The Procter & Gamble Company es una empresa del sector Consumer Defensive, industria Household & Personal Products, con sede en United States. Capitalizaci\u00f3n burs\u00e1til estimada: 375,372,546,048.00 USD. Ratio P/E: 25.41, rendimiento por dividendo: 266.00%. The Procter & Gamble Company engages in the provision of branded consumer packaged goods worldwide. The company operates through five segments: Beauty; Grooming; Health Care; Fabric & Home Care; and Baby, Feminine & Family Care. The Beauty segment of"
-  },
-  "MCD": {
-    "sector": "Consumer Cyclical",
-    "industria": "Restaurants",
-    "pais": "United States",
-    "riesgo": "Moderado",
-    "retorno_5a": "222.00%",
-    "market_cap": "206,190,493,696.00",
-    "pe_ratio": "25.45",
-    "dividendo": "246.00%",
-    "descripcion": "McDonald's Corporation es una empresa del sector Consumer Cyclical, industria Restaurants, con sede en United States. Capitalizaci\u00f3n burs\u00e1til estimada: 206,190,493,696.00 USD. Ratio P/E: 25.45, rendimiento por dividendo: 246.00%. McDonald's Corporation owns, operates, and franchises restaurants under the McDonald's brand in the United States and internationally. It offers food and beverages, including hamburgers and cheeseburgers, various chicken sandwiches, fries, shakes, de"
+    "descripcion": "The Procter & Gamble Company es una empresa del sector Consumer Defensive, industria Household & Personal Products, con sede en United States. Capitalizaci\u00f3n burs\u00e1til estimada: 375,454,629,888.00 USD. Ratio P/E: 25.42, rendimiento por dividendo: 266.00%. The Procter & Gamble Company engages in the provision of branded consumer packaged goods worldwide. The company operates through five segments: Beauty; Grooming; Health Care; Fabric & Home Care; and Baby, Feminine & Family Care. The Beauty segment of"
   },
   "WMT": {
     "sector": "Consumer Defensive",
@@ -335,21 +313,10 @@
     "pais": "United States",
     "riesgo": "Moderado",
     "retorno_5a": "64.00%",
-    "market_cap": "443,075,624,960.00",
-    "pe_ratio": "56.61",
+    "market_cap": "442,993,573,888.00",
+    "pe_ratio": "56.60",
     "dividendo": "53.00%",
-    "descripcion": "Costco Wholesale Corporation es una empresa del sector Consumer Defensive, industria Discount Stores, con sede en United States. Capitalizaci\u00f3n burs\u00e1til estimada: 443,075,624,960.00 USD. Ratio P/E: 56.61, rendimiento por dividendo: 53.00%. Costco Wholesale Corporation, together with its subsidiaries, engages in the operation of membership warehouses in the United States, Puerto Rico, Canada, Mexico, Japan, the United Kingdom, Korea, Australia, Taiwan, China, Spain, France, Iceland, New"
-  },
-  "HD": {
-    "sector": "Consumer Cyclical",
-    "industria": "Home Improvement Retail",
-    "pais": "United States",
-    "riesgo": "Alto",
-    "retorno_5a": "229.00%",
-    "market_cap": "352,935,772,160.00",
-    "pe_ratio": "24.10",
-    "dividendo": "263.00%",
-    "descripcion": "The Home Depot, Inc. es una empresa del sector Consumer Cyclical, industria Home Improvement Retail, con sede en United States. Capitalizaci\u00f3n burs\u00e1til estimada: 352,935,772,160.00 USD. Ratio P/E: 24.10, rendimiento por dividendo: 263.00%. The Home Depot, Inc. operates as a home improvement retailer in the United States and internationally. It sells various building materials, home improvement products, lawn and garden products, and d\u00e9cor products, as well as facilities maintenance, re"
+    "descripcion": "Costco Wholesale Corporation es una empresa del sector Consumer Defensive, industria Discount Stores, con sede en United States. Capitalizaci\u00f3n burs\u00e1til estimada: 442,993,573,888.00 USD. Ratio P/E: 56.60, rendimiento por dividendo: 53.00%. Costco Wholesale Corporation, together with its subsidiaries, engages in the operation of membership warehouses in the United States, Puerto Rico, Canada, Mexico, Japan, the United Kingdom, Korea, Australia, Taiwan, China, Spain, France, Iceland, New"
   },
   "NKE": {
     "sector": "Consumer Cyclical",
@@ -357,10 +324,21 @@
     "pais": "United States",
     "riesgo": "Alto",
     "retorno_5a": "122.00%",
-    "market_cap": "89,998,491,648.00",
-    "pe_ratio": "20.26",
+    "market_cap": "90,035,388,416.00",
+    "pe_ratio": "20.27",
     "dividendo": "268.00%",
-    "descripcion": "NIKE, Inc. es una empresa del sector Consumer Cyclical, industria Footwear & Accessories, con sede en United States. Capitalizaci\u00f3n burs\u00e1til estimada: 89,998,491,648.00 USD. Ratio P/E: 20.26, rendimiento por dividendo: 268.00%. NIKE, Inc., together with its subsidiaries, engages in the design, development, marketing, and sale of athletic footwear, apparel, equipment, accessories, and services worldwide. The company provides athletic and casual footwear, apparel, and accesso"
+    "descripcion": "NIKE, Inc. es una empresa del sector Consumer Cyclical, industria Footwear & Accessories, con sede en United States. Capitalizaci\u00f3n burs\u00e1til estimada: 90,035,388,416.00 USD. Ratio P/E: 20.27, rendimiento por dividendo: 268.00%. NIKE, Inc., together with its subsidiaries, engages in the design, development, marketing, and sale of athletic footwear, apparel, equipment, accessories, and services worldwide. The company provides athletic and casual footwear, apparel, and accesso"
+  },
+  "HD": {
+    "sector": "Consumer Cyclical",
+    "industria": "Home Improvement Retail",
+    "pais": "United States",
+    "riesgo": "Alto",
+    "retorno_5a": "229.00%",
+    "market_cap": "352,816,889,856.00",
+    "pe_ratio": "24.09",
+    "dividendo": "263.00%",
+    "descripcion": "The Home Depot, Inc. es una empresa del sector Consumer Cyclical, industria Home Improvement Retail, con sede en United States. Capitalizaci\u00f3n burs\u00e1til estimada: 352,816,889,856.00 USD. Ratio P/E: 24.09, rendimiento por dividendo: 263.00%. The Home Depot, Inc. operates as a home improvement retailer in the United States and internationally. It sells various building materials, home improvement products, lawn and garden products, and d\u00e9cor products, as well as facilities maintenance, re"
   },
   "SPY": {
     "sector": "N/A",
@@ -368,10 +346,21 @@
     "pais": "N/A",
     "riesgo": "Moderado",
     "retorno_5a": "0%",
-    "market_cap": "549,191,581,696.00",
-    "pe_ratio": "25.87",
+    "market_cap": "549,141,118,976.00",
+    "pe_ratio": "25.86",
     "dividendo": "121.00%",
-    "descripcion": "SPDR S&P 500 ETF es una empresa del sector N/A, industria N/A, con sede en N/A. Capitalizaci\u00f3n burs\u00e1til estimada: 549,191,581,696.00 USD. Ratio P/E: 25.87, rendimiento por dividendo: 121.00%. The trust seeks to achieve its investment objective by holding a portfolio of the common stocks that are included in the index, with the weight of each stock in the portfolio substantially corresponding to the weight of such stock in the index."
+    "descripcion": "SPDR S&P 500 ETF es una empresa del sector N/A, industria N/A, con sede en N/A. Capitalizaci\u00f3n burs\u00e1til estimada: 549,141,118,976.00 USD. Ratio P/E: 25.86, rendimiento por dividendo: 121.00%. The trust seeks to achieve its investment objective by holding a portfolio of the common stocks that are included in the index, with the weight of each stock in the portfolio substantially corresponding to the weight of such stock in the index."
+  },
+  "MCD": {
+    "sector": "Consumer Cyclical",
+    "industria": "Restaurants",
+    "pais": "United States",
+    "riesgo": "Moderado",
+    "retorno_5a": "222.00%",
+    "market_cap": "206,211,940,352.00",
+    "pe_ratio": "25.45",
+    "dividendo": "246.00%",
+    "descripcion": "McDonald's Corporation es una empresa del sector Consumer Cyclical, industria Restaurants, con sede en United States. Capitalizaci\u00f3n burs\u00e1til estimada: 206,211,940,352.00 USD. Ratio P/E: 25.45, rendimiento por dividendo: 246.00%. McDonald's Corporation owns, operates, and franchises restaurants under the McDonald's brand in the United States and internationally. It offers food and beverages, including hamburgers and cheeseburgers, various chicken sandwiches, fries, shakes, de"
   },
   "QQQ": {
     "sector": "N/A",
@@ -379,43 +368,10 @@
     "pais": "N/A",
     "riesgo": "Moderado",
     "retorno_5a": "0%",
-    "market_cap": "208,704,651,264.00",
+    "market_cap": "208,708,583,424.00",
     "pe_ratio": "31.10",
     "dividendo": "58.00%",
-    "descripcion": "Invesco QQQ Trust es una empresa del sector N/A, industria N/A, con sede en N/A. Capitalizaci\u00f3n burs\u00e1til estimada: 208,704,651,264.00 USD. Ratio P/E: 31.10, rendimiento por dividendo: 58.00%. To maintain the correspondence between the composition and weights of the securities in the trust (the \"securities\") and the stocks in the NASDAQ-100 Index\u00ae, the adviser adjusts the securities from time to time to conform to periodic changes in the i"
-  },
-  "DIA": {
-    "sector": "N/A",
-    "industria": "N/A",
-    "pais": "N/A",
-    "riesgo": "Moderado",
-    "retorno_5a": "0%",
-    "market_cap": "34,472,173,568.00",
-    "pe_ratio": "21.88",
-    "dividendo": "152.00%",
-    "descripcion": "SPDR Dow Jones Industrial Average ETF Trust es una empresa del sector N/A, industria N/A, con sede en N/A. Capitalizaci\u00f3n burs\u00e1til estimada: 34,472,173,568.00 USD. Ratio P/E: 21.88, rendimiento por dividendo: 152.00%. The Trust\u2019s Portfolio consists of substantially all of the component common stocks that comprise the DJIA, which are weighted in accordance with the terms of the Trust Agreement."
-  },
-  "VTI": {
-    "sector": "N/A",
-    "industria": "N/A",
-    "pais": "N/A",
-    "riesgo": "Moderado",
-    "retorno_5a": "0%",
-    "market_cap": "612,545,789,952.00",
-    "pe_ratio": "25.45",
-    "dividendo": "129.00%",
-    "descripcion": "Vanguard Total Stock Market Index Fund ETF Shares es una empresa del sector N/A, industria N/A, con sede en N/A. Capitalizaci\u00f3n burs\u00e1til estimada: 612,545,789,952.00 USD. Ratio P/E: 25.45, rendimiento por dividendo: 129.00%. The fund employs an indexing investment approach designed to track the performance of the index, which represents approximately 100% of the investable U.S. stock market and includes large-, mid-, small-, and micro-cap stocks regularly traded on the N"
-  },
-  "IWM": {
-    "sector": "N/A",
-    "industria": "N/A",
-    "pais": "N/A",
-    "riesgo": "Moderado",
-    "retorno_5a": "0%",
-    "market_cap": "59,197,558,784.00",
-    "pe_ratio": "17.59",
-    "dividendo": "120.00%",
-    "descripcion": "iShares Russell 2000 ETF es una empresa del sector N/A, industria N/A, con sede en N/A. Capitalizaci\u00f3n burs\u00e1til estimada: 59,197,558,784.00 USD. Ratio P/E: 17.59, rendimiento por dividendo: 120.00%. The fund generally invests at least 80% of its assets in the component securities of its underlying index and in investments that have economic characteristics that are substantially identical to the component securities of its underlying index (i.e."
+    "descripcion": "Invesco QQQ Trust es una empresa del sector N/A, industria N/A, con sede en N/A. Capitalizaci\u00f3n burs\u00e1til estimada: 208,708,583,424.00 USD. Ratio P/E: 31.10, rendimiento por dividendo: 58.00%. To maintain the correspondence between the composition and weights of the securities in the trust (the \"securities\") and the stocks in the NASDAQ-100 Index\u00ae, the adviser adjusts the securities from time to time to conform to periodic changes in the i"
   },
   "VOO": {
     "sector": "N/A",
@@ -428,16 +384,49 @@
     "dividendo": "129.00%",
     "descripcion": "Vanguard S&P 500 ETF es una empresa del sector N/A, industria N/A, con sede en N/A. Capitalizaci\u00f3n burs\u00e1til estimada: Desconocida USD. Ratio P/E: 26.18, rendimiento por dividendo: 129.00%. The fund employs an indexing investment approach designed to track the performance of the Standard & Poor's 500 Index, a widely recognized benchmark of U.S. stock market performance that is dominated by the stocks of large U.S. companies. The advisor"
   },
+  "DIA": {
+    "sector": "N/A",
+    "industria": "N/A",
+    "pais": "N/A",
+    "riesgo": "Moderado",
+    "retorno_5a": "0%",
+    "market_cap": "34,461,609,984.00",
+    "pe_ratio": "21.87",
+    "dividendo": "152.00%",
+    "descripcion": "SPDR Dow Jones Industrial Average ETF Trust es una empresa del sector N/A, industria N/A, con sede en N/A. Capitalizaci\u00f3n burs\u00e1til estimada: 34,461,609,984.00 USD. Ratio P/E: 21.87, rendimiento por dividendo: 152.00%. The Trust\u2019s Portfolio consists of substantially all of the component common stocks that comprise the DJIA, which are weighted in accordance with the terms of the Trust Agreement."
+  },
+  "IWM": {
+    "sector": "N/A",
+    "industria": "N/A",
+    "pais": "N/A",
+    "riesgo": "Moderado",
+    "retorno_5a": "0%",
+    "market_cap": "59,191,939,072.00",
+    "pe_ratio": "17.59",
+    "dividendo": "120.00%",
+    "descripcion": "iShares Russell 2000 ETF es una empresa del sector N/A, industria N/A, con sede en N/A. Capitalizaci\u00f3n burs\u00e1til estimada: 59,191,939,072.00 USD. Ratio P/E: 17.59, rendimiento por dividendo: 120.00%. The fund generally invests at least 80% of its assets in the component securities of its underlying index and in investments that have economic characteristics that are substantially identical to the component securities of its underlying index (i.e."
+  },
+  "VTI": {
+    "sector": "N/A",
+    "industria": "N/A",
+    "pais": "N/A",
+    "riesgo": "Moderado",
+    "retorno_5a": "0%",
+    "market_cap": "612,514,660,352.00",
+    "pe_ratio": "25.45",
+    "dividendo": "129.00%",
+    "descripcion": "Vanguard Total Stock Market Index Fund ETF Shares es una empresa del sector N/A, industria N/A, con sede en N/A. Capitalizaci\u00f3n burs\u00e1til estimada: 612,514,660,352.00 USD. Ratio P/E: 25.45, rendimiento por dividendo: 129.00%. The fund employs an indexing investment approach designed to track the performance of the index, which represents approximately 100% of the investable U.S. stock market and includes large-, mid-, small-, and micro-cap stocks regularly traded on the N"
+  },
   "XLK": {
     "sector": "N/A",
     "industria": "N/A",
     "pais": "N/A",
     "riesgo": "Moderado",
     "retorno_5a": "0%",
-    "market_cap": "65,989,902,336.00",
-    "pe_ratio": "36.59",
+    "market_cap": "65,973,551,104.00",
+    "pe_ratio": "36.58",
     "dividendo": "67.00%",
-    "descripcion": "The Technology Select Sector SPDR Fund es una empresa del sector N/A, industria N/A, con sede en N/A. Capitalizaci\u00f3n burs\u00e1til estimada: 65,989,902,336.00 USD. Ratio P/E: 36.59, rendimiento por dividendo: 67.00%. In seeking to track the performance of the index, the fund employs a replication strategy, which means that the fund typically invests in substantially all of the securities represented in the index in approximately the same proportions as the index."
+    "descripcion": "The Technology Select Sector SPDR Fund es una empresa del sector N/A, industria N/A, con sede en N/A. Capitalizaci\u00f3n burs\u00e1til estimada: 65,973,551,104.00 USD. Ratio P/E: 36.58, rendimiento por dividendo: 67.00%. In seeking to track the performance of the index, the fund employs a replication strategy, which means that the fund typically invests in substantially all of the securities represented in the index in approximately the same proportions as the index."
   },
   "XLE": {
     "sector": "N/A",
@@ -445,10 +434,21 @@
     "pais": "N/A",
     "riesgo": "Moderado",
     "retorno_5a": "0%",
-    "market_cap": "16,022,210,560.00",
-    "pe_ratio": "15.94",
+    "market_cap": "16,011,957,248.00",
+    "pe_ratio": "15.93",
     "dividendo": "350.00%",
-    "descripcion": "The Energy Select Sector SPDR Fund es una empresa del sector N/A, industria N/A, con sede en N/A. Capitalizaci\u00f3n burs\u00e1til estimada: 16,022,210,560.00 USD. Ratio P/E: 15.94, rendimiento por dividendo: 350.00%. In seeking to track the performance of the index, the fund employs a replication strategy. It generally invests substantially all, but at least 95%, of its total assets in the securities comprising the index. The index includes companies that have be"
+    "descripcion": "The Energy Select Sector SPDR Fund es una empresa del sector N/A, industria N/A, con sede en N/A. Capitalizaci\u00f3n burs\u00e1til estimada: 16,011,957,248.00 USD. Ratio P/E: 15.93, rendimiento por dividendo: 350.00%. In seeking to track the performance of the index, the fund employs a replication strategy. It generally invests substantially all, but at least 95%, of its total assets in the securities comprising the index. The index includes companies that have be"
+  },
+  "SOXX": {
+    "sector": "N/A",
+    "industria": "N/A",
+    "pais": "N/A",
+    "riesgo": "Moderado",
+    "retorno_5a": "0%",
+    "market_cap": "1,731,424,512.00",
+    "pe_ratio": "31.36",
+    "dividendo": "72.00%",
+    "descripcion": "iShares Semiconductor ETF es una empresa del sector N/A, industria N/A, con sede en N/A. Capitalizaci\u00f3n burs\u00e1til estimada: 1,731,424,512.00 USD. Ratio P/E: 31.36, rendimiento por dividendo: 72.00%. The fund generally will invest at least 80% of its assets in the component securities of its index and in investments that have economic characteristics that are substantially identical to the component securities of its index and may invest up to 20"
   },
   "ARKK": {
     "sector": "N/A",
@@ -457,20 +457,9 @@
     "riesgo": "Moderado",
     "retorno_5a": "0%",
     "market_cap": "Desconocida",
-    "pe_ratio": "38.55",
+    "pe_ratio": "38.53",
     "dividendo": "0.00%",
-    "descripcion": "ARK Innovation ETF es una empresa del sector N/A, industria N/A, con sede en N/A. Capitalizaci\u00f3n burs\u00e1til estimada: Desconocida USD. Ratio P/E: 38.55, rendimiento por dividendo: 0.00%. The fund is an actively-managed exchange-traded fund (\"ETF\") that will invest under normal circumstances primarily (at least 65% of its assets) in domestic and foreign equity securities of companies that are relevant to the fund's investment theme of"
-  },
-  "SOXX": {
-    "sector": "N/A",
-    "industria": "N/A",
-    "pais": "N/A",
-    "riesgo": "Moderado",
-    "retorno_5a": "0%",
-    "market_cap": "1,730,965,504.00",
-    "pe_ratio": "31.35",
-    "dividendo": "72.00%",
-    "descripcion": "iShares Semiconductor ETF es una empresa del sector N/A, industria N/A, con sede en N/A. Capitalizaci\u00f3n burs\u00e1til estimada: 1,730,965,504.00 USD. Ratio P/E: 31.35, rendimiento por dividendo: 72.00%. The fund generally will invest at least 80% of its assets in the component securities of its index and in investments that have economic characteristics that are substantially identical to the component securities of its index and may invest up to 20"
+    "descripcion": "ARK Innovation ETF es una empresa del sector N/A, industria N/A, con sede en N/A. Capitalizaci\u00f3n burs\u00e1til estimada: Desconocida USD. Ratio P/E: 38.53, rendimiento por dividendo: 0.00%. The fund is an actively-managed exchange-traded fund (\"ETF\") that will invest under normal circumstances primarily (at least 65% of its assets) in domestic and foreign equity securities of companies that are relevant to the fund's investment theme of"
   },
   "VGT": {
     "sector": "N/A",
@@ -489,10 +478,21 @@
     "pais": "N/A",
     "riesgo": "Moderado",
     "retorno_5a": "0%",
-    "market_cap": "44,622,807,040.00",
+    "market_cap": "44,627,222,528.00",
     "pe_ratio": "17.86",
     "dividendo": "140.00%",
-    "descripcion": "The Financial Select Sector SPDR Fund es una empresa del sector N/A, industria N/A, con sede en N/A. Capitalizaci\u00f3n burs\u00e1til estimada: 44,622,807,040.00 USD. Ratio P/E: 17.86, rendimiento por dividendo: 140.00%. The fund generally invests substantially all, but at least 95%, of its total assets in the securities comprising the index. The index includes companies that have been identified as Financial companies by the Global Industry Classification Standard, "
+    "descripcion": "The Financial Select Sector SPDR Fund es una empresa del sector N/A, industria N/A, con sede en N/A. Capitalizaci\u00f3n burs\u00e1til estimada: 44,627,222,528.00 USD. Ratio P/E: 17.86, rendimiento por dividendo: 140.00%. The fund generally invests substantially all, but at least 95%, of its total assets in the securities comprising the index. The index includes companies that have been identified as Financial companies by the Global Industry Classification Standard, "
+  },
+  "XLY": {
+    "sector": "N/A",
+    "industria": "N/A",
+    "pais": "N/A",
+    "riesgo": "Moderado",
+    "retorno_5a": "0%",
+    "market_cap": "25,794,269,184.00",
+    "pe_ratio": "26.90",
+    "dividendo": "83.00%",
+    "descripcion": "The Consumer Discretionary Select Sector SPDR Fund es una empresa del sector N/A, industria N/A, con sede en N/A. Capitalizaci\u00f3n burs\u00e1til estimada: 25,794,269,184.00 USD. Ratio P/E: 26.90, rendimiento por dividendo: 83.00%. The Advisor employs a replication strategy. The fund generally invests substantially all, but at least 95%, of its total assets in the securities comprising the index. The index includes companies that have been identified as Consumer Discretionary c"
   },
   "XLC": {
     "sector": "N/A",
@@ -501,20 +501,31 @@
     "riesgo": "Moderado",
     "retorno_5a": "0%",
     "market_cap": "Desconocida",
-    "pe_ratio": "19.07",
+    "pe_ratio": "19.08",
     "dividendo": "102.00%",
-    "descripcion": "The Communication Services Select Sector SPDR ETF Fund es una empresa del sector N/A, industria N/A, con sede en N/A. Capitalizaci\u00f3n burs\u00e1til estimada: Desconocida USD. Ratio P/E: 19.07, rendimiento por dividendo: 102.00%. Normally, the fund generally invests substantially all, but at least 95%, of its total assets in the securities comprising the index. The index includes companies that have been identified as Communication Services companies by the GICS\u00ae, including s"
+    "descripcion": "The Communication Services Select Sector SPDR ETF Fund es una empresa del sector N/A, industria N/A, con sede en N/A. Capitalizaci\u00f3n burs\u00e1til estimada: Desconocida USD. Ratio P/E: 19.08, rendimiento por dividendo: 102.00%. Normally, the fund generally invests substantially all, but at least 95%, of its total assets in the securities comprising the index. The index includes companies that have been identified as Communication Services companies by the GICS\u00ae, including s"
   },
-  "XLY": {
+  "XLV": {
     "sector": "N/A",
     "industria": "N/A",
     "pais": "N/A",
     "riesgo": "Moderado",
     "retorno_5a": "0%",
-    "market_cap": "25,796,673,536.00",
-    "pe_ratio": "26.91",
-    "dividendo": "83.00%",
-    "descripcion": "The Consumer Discretionary Select Sector SPDR Fund es una empresa del sector N/A, industria N/A, con sede en N/A. Capitalizaci\u00f3n burs\u00e1til estimada: 25,796,673,536.00 USD. Ratio P/E: 26.91, rendimiento por dividendo: 83.00%. XLY es un activo financiero relevante."
+    "market_cap": "25,966,983,168.00",
+    "pe_ratio": "23.35",
+    "dividendo": "176.00%",
+    "descripcion": "The Health Care Select Sector SPDR Fund es una empresa del sector N/A, industria N/A, con sede en N/A. Capitalizaci\u00f3n burs\u00e1til estimada: 25,966,983,168.00 USD. Ratio P/E: 23.35, rendimiento por dividendo: 176.00%. In seeking to track the performance of the index, the fund employs a replication strategy. It generally invests substantially all, but at least 95%, of its total assets in the securities comprising the index. The index includes companies from the fol"
+  },
+  "XLRE": {
+    "sector": "N/A",
+    "industria": "N/A",
+    "pais": "N/A",
+    "riesgo": "Moderado",
+    "retorno_5a": "0%",
+    "market_cap": "Desconocida",
+    "pe_ratio": "35.35",
+    "dividendo": "334.00%",
+    "descripcion": "The Real Estate Select Sector SPDR Fund es una empresa del sector N/A, industria N/A, con sede en N/A. Capitalizaci\u00f3n burs\u00e1til estimada: Desconocida USD. Ratio P/E: 35.35, rendimiento por dividendo: 334.00%. Under normal market conditions, the fund generally invests substantially all, but at least 95%, of its total assets in the securities comprising the index. The index includes companies that have been identified as Real Estate companies by the Global "
   },
   "VEA": {
     "sector": "N/A",
@@ -527,38 +538,27 @@
     "dividendo": "281.00%",
     "descripcion": "Vanguard FTSE Developed Markets Index Fund ETF Shares es una empresa del sector N/A, industria N/A, con sede en N/A. Capitalizaci\u00f3n burs\u00e1til estimada: Desconocida USD. Ratio P/E: 16.33, rendimiento por dividendo: 281.00%. The fund employs an indexing investment approach designed to track the performance of the FTSE Developed All Cap ex U.S. Index, a market-capitalization-weighted index that is made up of approximately 3,957 common stocks of large-, mid-, and small-cap"
   },
-  "XLV": {
-    "sector": "N/A",
-    "industria": "N/A",
-    "pais": "N/A",
-    "riesgo": "Moderado",
-    "retorno_5a": "0%",
-    "market_cap": "25,993,633,792.00",
-    "pe_ratio": "23.37",
-    "dividendo": "176.00%",
-    "descripcion": "The Health Care Select Sector SPDR Fund es una empresa del sector N/A, industria N/A, con sede en N/A. Capitalizaci\u00f3n burs\u00e1til estimada: 25,993,633,792.00 USD. Ratio P/E: 23.37, rendimiento por dividendo: 176.00%. In seeking to track the performance of the index, the fund employs a replication strategy. It generally invests substantially all, but at least 95%, of its total assets in the securities comprising the index. The index includes companies from the fol"
-  },
-  "XLRE": {
-    "sector": "N/A",
-    "industria": "N/A",
-    "pais": "N/A",
-    "riesgo": "Moderado",
-    "retorno_5a": "0%",
-    "market_cap": "Desconocida",
-    "pe_ratio": "35.36",
-    "dividendo": "334.00%",
-    "descripcion": "The Real Estate Select Sector SPDR Fund es una empresa del sector N/A, industria N/A, con sede en N/A. Capitalizaci\u00f3n burs\u00e1til estimada: Desconocida USD. Ratio P/E: 35.36, rendimiento por dividendo: 334.00%. Under normal market conditions, the fund generally invests substantially all, but at least 95%, of its total assets in the securities comprising the index. The index includes companies that have been identified as Real Estate companies by the Global "
-  },
   "VWO": {
     "sector": "N/A",
     "industria": "N/A",
     "pais": "N/A",
     "riesgo": "Moderado",
     "retorno_5a": "0%",
-    "market_cap": "67,935,035,392.00",
-    "pe_ratio": "15.41",
+    "market_cap": "67,947,233,280.00",
+    "pe_ratio": "15.42",
     "dividendo": "302.00%",
-    "descripcion": "Vanguard Emerging Markets Stock Index Fund es una empresa del sector N/A, industria N/A, con sede en N/A. Capitalizaci\u00f3n burs\u00e1til estimada: 67,935,035,392.00 USD. Ratio P/E: 15.41, rendimiento por dividendo: 302.00%. The index measures the investment return of stocks issued by companies located in emerging market countries. The fund employs an indexing investment approach designed to track the performance of the FTSE Emerging Markets All Cap China A Inclusion Ind"
+    "descripcion": "Vanguard Emerging Markets Stock Index Fund es una empresa del sector N/A, industria N/A, con sede en N/A. Capitalizaci\u00f3n burs\u00e1til estimada: 67,947,233,280.00 USD. Ratio P/E: 15.42, rendimiento por dividendo: 302.00%. The index measures the investment return of stocks issued by companies located in emerging market countries. The fund employs an indexing investment approach designed to track the performance of the FTSE Emerging Markets All Cap China A Inclusion Ind"
+  },
+  "EFA": {
+    "sector": "N/A",
+    "industria": "N/A",
+    "pais": "N/A",
+    "riesgo": "Moderado",
+    "retorno_5a": "0%",
+    "market_cap": "81,471,889,408.00",
+    "pe_ratio": "16.77",
+    "dividendo": "276.00%",
+    "descripcion": "iShares MSCI EAFE ETF es una empresa del sector N/A, industria N/A, con sede en N/A. Capitalizaci\u00f3n burs\u00e1til estimada: 81,471,889,408.00 USD. Ratio P/E: 16.77, rendimiento por dividendo: 276.00%. The fund generally will invest at least 80% of its assets in the component securities of its underlying index and in investments that have economic characteristics that are substantially identical to the component securities of its underlying index. "
   },
   "IEFA": {
     "sector": "N/A",
@@ -570,28 +570,6 @@
     "pe_ratio": "16.35",
     "dividendo": "296.00%",
     "descripcion": "iShares Core MSCI EAFE ETF es una empresa del sector N/A, industria N/A, con sede en N/A. Capitalizaci\u00f3n burs\u00e1til estimada: Desconocida USD. Ratio P/E: 16.35, rendimiento por dividendo: 296.00%. The fund generally will invest at least 80% of its assets in the component securities of its underlying index and in investments that have economic characteristics that are substantially identical to the component securities of its underlying index. "
-  },
-  "IXUS": {
-    "sector": "N/A",
-    "industria": "N/A",
-    "pais": "N/A",
-    "riesgo": "Moderado",
-    "retorno_5a": "0%",
-    "market_cap": "Desconocida",
-    "pe_ratio": "15.86",
-    "dividendo": "292.00%",
-    "descripcion": "iShares Core MSCI Total International Stock ETF es una empresa del sector N/A, industria N/A, con sede en N/A. Capitalizaci\u00f3n burs\u00e1til estimada: Desconocida USD. Ratio P/E: 15.86, rendimiento por dividendo: 292.00%. The fund generally will invest at least 80% of its assets in the component securities of its underlying index and in investments that have economic characteristics that are substantially identical to the component securities of its underlying index. "
-  },
-  "EFA": {
-    "sector": "N/A",
-    "industria": "N/A",
-    "pais": "N/A",
-    "riesgo": "Moderado",
-    "retorno_5a": "0%",
-    "market_cap": "81,456,783,360.00",
-    "pe_ratio": "16.77",
-    "dividendo": "276.00%",
-    "descripcion": "iShares MSCI EAFE ETF es una empresa del sector N/A, industria N/A, con sede en N/A. Capitalizaci\u00f3n burs\u00e1til estimada: 81,456,783,360.00 USD. Ratio P/E: 16.77, rendimiento por dividendo: 276.00%. The fund generally will invest at least 80% of its assets in the component securities of its underlying index and in investments that have economic characteristics that are substantially identical to the component securities of its underlying index. "
   },
   "SPDW": {
     "sector": "N/A",
@@ -615,6 +593,28 @@
     "dividendo": "162.00%",
     "descripcion": "iShares MSCI ACWI ETF es una empresa del sector N/A, industria N/A, con sede en N/A. Capitalizaci\u00f3n burs\u00e1til estimada: Desconocida USD. Ratio P/E: 21.38, rendimiento por dividendo: 162.00%. The fund generally will invest at least 80% of its assets in the component securities of its underlying index and in investments that have economic characteristics that are substantially identical to the component securities of its underlying index. "
   },
+  "EWG": {
+    "sector": "N/A",
+    "industria": "N/A",
+    "pais": "N/A",
+    "riesgo": "Moderado",
+    "retorno_5a": "0%",
+    "market_cap": "3,232,470,016.00",
+    "pe_ratio": "18.18",
+    "dividendo": "181.00%",
+    "descripcion": "iShares MSCI Germany ETF es una empresa del sector N/A, industria N/A, con sede en N/A. Capitalizaci\u00f3n burs\u00e1til estimada: 3,232,470,016.00 USD. Ratio P/E: 18.18, rendimiento por dividendo: 181.00%. The fund generally will invest at least 80% of its assets in the component securities of its underlying index and in depositary receipts representing securities of the underlying index. The underlying index is designed to measure the performance of t"
+  },
+  "AAPL": {
+    "sector": "Technology",
+    "industria": "Consumer Electronics",
+    "pais": "United States",
+    "riesgo": "Alto",
+    "retorno_5a": "56.00%",
+    "market_cap": "3,009,548,648,448.00",
+    "pe_ratio": "31.44",
+    "dividendo": "52.00%",
+    "descripcion": "Apple Inc. es una empresa del sector Technology, industria Consumer Electronics, con sede en United States. Capitalizaci\u00f3n burs\u00e1til estimada: 3,009,548,648,448.00 USD. Ratio P/E: 31.44, rendimiento por dividendo: 52.00%. Apple Inc. designs, manufactures, and markets smartphones, personal computers, tablets, wearables, and accessories worldwide. The company offers iPhone, a line of smartphones; Mac, a line of personal computers; iPad, a line of multi-purpose tablets; "
+  },
   "EWU": {
     "sector": "N/A",
     "industria": "N/A",
@@ -625,39 +625,6 @@
     "pe_ratio": "17.66",
     "dividendo": "353.00%",
     "descripcion": "iShares MSCI United Kingdom ETF es una empresa del sector N/A, industria N/A, con sede en N/A. Capitalizaci\u00f3n burs\u00e1til estimada: 2,651,997,184.00 USD. Ratio P/E: 17.66, rendimiento por dividendo: 353.00%. The fund generally will invest at least 80% of its assets in the component securities of its underlying index and in investments that have economic characteristics that are substantially identical to the component securities of its underlying index. "
-  },
-  "VGK": {
-    "sector": "N/A",
-    "industria": "N/A",
-    "pais": "N/A",
-    "riesgo": "Moderado",
-    "retorno_5a": "0%",
-    "market_cap": "21,224,675,328.00",
-    "pe_ratio": "17.05",
-    "dividendo": "289.00%",
-    "descripcion": "Vanguard FTSE Europe ETF es una empresa del sector N/A, industria N/A, con sede en N/A. Capitalizaci\u00f3n burs\u00e1til estimada: 21,224,675,328.00 USD. Ratio P/E: 17.05, rendimiento por dividendo: 289.00%. The fund employs an indexing investment approach by investing all, or substantially all, of its assets in the common stocks included in the FTSE Developed Europe All Cap Index. The index is a market-capitalization-weighted index."
-  },
-  "EWG": {
-    "sector": "N/A",
-    "industria": "N/A",
-    "pais": "N/A",
-    "riesgo": "Moderado",
-    "retorno_5a": "0%",
-    "market_cap": "3,231,277,568.00",
-    "pe_ratio": "18.17",
-    "dividendo": "181.00%",
-    "descripcion": "iShares MSCI Germany ETF es una empresa del sector N/A, industria N/A, con sede en N/A. Capitalizaci\u00f3n burs\u00e1til estimada: 3,231,277,568.00 USD. Ratio P/E: 18.17, rendimiento por dividendo: 181.00%. The fund generally will invest at least 80% of its assets in the component securities of its underlying index and in depositary receipts representing securities of the underlying index. The underlying index is designed to measure the performance of t"
-  },
-  "SPEU": {
-    "sector": "N/A",
-    "industria": "N/A",
-    "pais": "N/A",
-    "riesgo": "Moderado",
-    "retorno_5a": "0%",
-    "market_cap": "Desconocida",
-    "pe_ratio": "16.81",
-    "dividendo": "273.00%",
-    "descripcion": "SPDR Portfolio Europe ETF es una empresa del sector N/A, industria N/A, con sede en N/A. Capitalizaci\u00f3n burs\u00e1til estimada: Desconocida USD. Ratio P/E: 16.81, rendimiento por dividendo: 273.00%. Under normal market conditions, the fund generally invests substantially all, but at least 80%, of its total assets in the securities comprising the index. It employs a sampling strategy, which means that the fund is not required to purchase all of t"
   },
   "LVMUY": {
     "sector": "Consumer Cyclical",
@@ -670,27 +637,38 @@
     "dividendo": "277.00%",
     "descripcion": "LVMH Mo\u00ebt Hennessy - Louis Vuitton, Soci\u00e9t\u00e9 Europ\u00e9enne es una empresa del sector Consumer Cyclical, industria Luxury Goods, con sede en France. Capitalizaci\u00f3n burs\u00e1til estimada: 261,769,166,848.00 USD. Ratio P/E: 18.12, rendimiento por dividendo: 277.00%. LVMH Mo\u00ebt Hennessy - Louis Vuitton, Soci\u00e9t\u00e9 Europ\u00e9enne, together with its subsidiaries, operates as a luxury goods company worldwide. The company offers wine and spirit products under the Ao Yun, Ardbeg, Armand de Brignac, Belvedere, Bodega Numanthia"
   },
-  "ASML": {
-    "sector": "Technology",
-    "industria": "Semiconductor Equipment & Materials",
-    "pais": "Netherlands",
-    "riesgo": "Alto",
-    "retorno_5a": "81.00%",
-    "market_cap": "305,441,701,888.00",
-    "pe_ratio": "30.56",
-    "dividendo": "111.00%",
-    "descripcion": "ASML Holding N.V. es una empresa del sector Technology, industria Semiconductor Equipment & Materials, con sede en Netherlands. Capitalizaci\u00f3n burs\u00e1til estimada: 305,441,701,888.00 USD. Ratio P/E: 30.56, rendimiento por dividendo: 111.00%. ASML Holding N.V. provides lithography solutions for the development, production, marketing, sales, upgrading, and servicing of advanced semiconductor equipment systems. It offers lithography, metrology, and inspection systems. The company also provi"
-  },
-  "SNY": {
-    "sector": "Healthcare",
-    "industria": "Drug Manufacturers - General",
-    "pais": "France",
+  "SPEU": {
+    "sector": "N/A",
+    "industria": "N/A",
+    "pais": "N/A",
     "riesgo": "Moderado",
-    "retorno_5a": "374.00%",
-    "market_cap": "117,078,171,648.00",
-    "pe_ratio": "16.81",
-    "dividendo": "462.00%",
-    "descripcion": "Sanofi es una empresa del sector Healthcare, industria Drug Manufacturers - General, con sede en France. Capitalizaci\u00f3n burs\u00e1til estimada: 117,078,171,648.00 USD. Ratio P/E: 16.81, rendimiento por dividendo: 462.00%. Sanofi, a healthcare company, engages in the research, development, manufacture, and marketing of therapeutic solutions in the United States, Europe, and internationally. The company provides immunology and inflammation, rare diseases, neurology, onc"
+    "retorno_5a": "0%",
+    "market_cap": "Desconocida",
+    "pe_ratio": "16.83",
+    "dividendo": "273.00%",
+    "descripcion": "SPDR Portfolio Europe ETF es una empresa del sector N/A, industria N/A, con sede en N/A. Capitalizaci\u00f3n burs\u00e1til estimada: Desconocida USD. Ratio P/E: 16.83, rendimiento por dividendo: 273.00%. Under normal market conditions, the fund generally invests substantially all, but at least 80%, of its total assets in the securities comprising the index. It employs a sampling strategy, which means that the fund is not required to purchase all of t"
+  },
+  "VGK": {
+    "sector": "N/A",
+    "industria": "N/A",
+    "pais": "N/A",
+    "riesgo": "Moderado",
+    "retorno_5a": "0%",
+    "market_cap": "21,224,480,768.00",
+    "pe_ratio": "17.05",
+    "dividendo": "289.00%",
+    "descripcion": "Vanguard FTSE Europe ETF es una empresa del sector N/A, industria N/A, con sede en N/A. Capitalizaci\u00f3n burs\u00e1til estimada: 21,224,480,768.00 USD. Ratio P/E: 17.05, rendimiento por dividendo: 289.00%. The fund employs an indexing investment approach by investing all, or substantially all, of its assets in the common stocks included in the FTSE Developed Europe All Cap Index. The index is a market-capitalization-weighted index."
+  },
+  "ASML": {
+    "sector": "N/A",
+    "industria": "N/A",
+    "pais": "N/A",
+    "riesgo": "Moderado",
+    "retorno_5a": "0%",
+    "market_cap": "305,363,058,688.00",
+    "pe_ratio": "30.55",
+    "dividendo": "111.00%",
+    "descripcion": "ASML Holding N.V. es una empresa del sector N/A, industria N/A, con sede en N/A. Capitalizaci\u00f3n burs\u00e1til estimada: 305,363,058,688.00 USD. Ratio P/E: 30.55, rendimiento por dividendo: 111.00%. ASML es un activo financiero relevante."
   },
   "AZN": {
     "sector": "Healthcare",
@@ -698,10 +676,32 @@
     "pais": "United Kingdom",
     "riesgo": "Moderado",
     "retorno_5a": "227.00%",
-    "market_cap": "221,415,817,216.00",
-    "pe_ratio": "28.46",
+    "market_cap": "221,227,581,440.00",
+    "pe_ratio": "28.44",
     "dividendo": "222.00%",
-    "descripcion": "AstraZeneca PLC es una empresa del sector Healthcare, industria Drug Manufacturers - General, con sede en United Kingdom. Capitalizaci\u00f3n burs\u00e1til estimada: 221,415,817,216.00 USD. Ratio P/E: 28.46, rendimiento por dividendo: 222.00%. AstraZeneca PLC, a biopharmaceutical company, focuses on the discovery, development, manufacture, and commercialization of prescription medicines. The company offers Imjudo, Datroway, Iressa, Tagrisso, Imfinzi, Lynparza, Calquence, Enhertu, Orpathys,"
+    "descripcion": "AstraZeneca PLC es una empresa del sector Healthcare, industria Drug Manufacturers - General, con sede en United Kingdom. Capitalizaci\u00f3n burs\u00e1til estimada: 221,227,581,440.00 USD. Ratio P/E: 28.44, rendimiento por dividendo: 222.00%. AstraZeneca PLC, a biopharmaceutical company, focuses on the discovery, development, manufacture, and commercialization of prescription medicines. The company offers Imjudo, Datroway, Iressa, Tagrisso, Imfinzi, Lynparza, Calquence, Enhertu, Orpathys,"
+  },
+  "SNY": {
+    "sector": "Healthcare",
+    "industria": "Drug Manufacturers - General",
+    "pais": "France",
+    "riesgo": "Moderado",
+    "retorno_5a": "374.00%",
+    "market_cap": "117,065,990,144.00",
+    "pe_ratio": "16.81",
+    "dividendo": "462.00%",
+    "descripcion": "Sanofi es una empresa del sector Healthcare, industria Drug Manufacturers - General, con sede en France. Capitalizaci\u00f3n burs\u00e1til estimada: 117,065,990,144.00 USD. Ratio P/E: 16.81, rendimiento por dividendo: 462.00%. Sanofi, a healthcare company, engages in the research, development, manufacture, and marketing of therapeutic solutions in the United States, Europe, and internationally. The company provides immunology and inflammation, rare diseases, neurology, onc"
+  },
+  "NVS": {
+    "sector": "Healthcare",
+    "industria": "Drug Manufacturers - General",
+    "pais": "Switzerland",
+    "riesgo": "Moderado",
+    "retorno_5a": "364.00%",
+    "market_cap": "232,012,595,200.00",
+    "pe_ratio": "18.34",
+    "dividendo": "345.00%",
+    "descripcion": "Novartis AG es una empresa del sector Healthcare, industria Drug Manufacturers - General, con sede en Switzerland. Capitalizaci\u00f3n burs\u00e1til estimada: 232,012,595,200.00 USD. Ratio P/E: 18.34, rendimiento por dividendo: 345.00%. Novartis AG engages in the research, development, manufacture, distribution, marketing, and sale of pharmaceutical medicines in Switzerland and internationally. The company offers Entresto, an angiotensin receptorneprilysin inhibitor for the treatmen"
   },
   "UL": {
     "sector": "Consumer Defensive",
@@ -720,10 +720,21 @@
     "pais": "United Kingdom",
     "riesgo": "Moderado",
     "retorno_5a": "608.00%",
-    "market_cap": "205,512,900,608.00",
+    "market_cap": "205,507,657,728.00",
     "pe_ratio": "10.79",
     "dividendo": "342.00%",
-    "descripcion": "HSBC Holdings plc es una empresa del sector Financial Services, industria Banks - Diversified, con sede en United Kingdom. Capitalizaci\u00f3n burs\u00e1til estimada: 205,512,900,608.00 USD. Ratio P/E: 10.79, rendimiento por dividendo: 342.00%. HSBC Holdings plc engages in the provision of banking and financial products and services worldwide. It operates through three segments: Wealth and Personal Banking, Commercial Banking, and Global Banking and Markets. The Wealth and Personal Banking "
+    "descripcion": "HSBC Holdings plc es una empresa del sector Financial Services, industria Banks - Diversified, con sede en United Kingdom. Capitalizaci\u00f3n burs\u00e1til estimada: 205,507,657,728.00 USD. Ratio P/E: 10.79, rendimiento por dividendo: 342.00%. HSBC Holdings plc engages in the provision of banking and financial products and services worldwide. It operates through three segments: Wealth and Personal Banking, Commercial Banking, and Global Banking and Markets. The Wealth and Personal Banking "
+  },
+  "OR": {
+    "sector": "Basic Materials",
+    "industria": "Gold",
+    "pais": "Canada",
+    "riesgo": "Moderado",
+    "retorno_5a": "124.00%",
+    "market_cap": "4,867,134,464.00",
+    "pe_ratio": "152.48",
+    "dividendo": "85.00%",
+    "descripcion": "OR Royalties Inc. es una empresa del sector Basic Materials, industria Gold, con sede en Canada. Capitalizaci\u00f3n burs\u00e1til estimada: 4,867,134,464.00 USD. Ratio P/E: 152.48, rendimiento por dividendo: 85.00%. OR Royalties Inc. acquires and manages precious metal and other royalties, streams, and other interests in Canada and internationally. It also owns options on offtake; royalty/stream financings; and exclusive rights to participate in future royalty/s"
   },
   "SIEGY": {
     "sector": "Industrials",
@@ -731,21 +742,21 @@
     "pais": "Germany",
     "riesgo": "Alto",
     "retorno_5a": "294.00%",
-    "market_cap": "189,835,657,216.00",
-    "pe_ratio": "21.45",
+    "market_cap": "189,898,309,632.00",
+    "pe_ratio": "21.46",
     "dividendo": "226.00%",
-    "descripcion": "Siemens Aktiengesellschaft es una empresa del sector Industrials, industria Specialty Industrial Machinery, con sede en Germany. Capitalizaci\u00f3n burs\u00e1til estimada: 189,835,657,216.00 USD. Ratio P/E: 21.45, rendimiento por dividendo: 226.00%. Siemens Aktiengesellschaft, a technology company, focuses in the areas of automation and digitalization in Europe, Commonwealth of Independent States, Africa, the Middle East, the Americas, Asia, and Australia. It operates through Digital Industries,"
+    "descripcion": "Siemens Aktiengesellschaft es una empresa del sector Industrials, industria Specialty Industrial Machinery, con sede en Germany. Capitalizaci\u00f3n burs\u00e1til estimada: 189,898,309,632.00 USD. Ratio P/E: 21.46, rendimiento por dividendo: 226.00%. Siemens Aktiengesellschaft, a technology company, focuses in the areas of automation and digitalization in Europe, Commonwealth of Independent States, Africa, the Middle East, the Americas, Asia, and Australia. It operates through Digital Industries,"
   },
-  "NVS": {
-    "sector": "Healthcare",
-    "industria": "Drug Manufacturers - General",
-    "pais": "Switzerland",
+  "V": {
+    "sector": "Financial Services",
+    "industria": "Credit Services",
+    "pais": "United States",
     "riesgo": "Moderado",
-    "retorno_5a": "364.00%",
-    "market_cap": "232,220,753,920.00",
-    "pe_ratio": "18.36",
-    "dividendo": "345.00%",
-    "descripcion": "Novartis AG es una empresa del sector Healthcare, industria Drug Manufacturers - General, con sede en Switzerland. Capitalizaci\u00f3n burs\u00e1til estimada: 232,220,753,920.00 USD. Ratio P/E: 18.36, rendimiento por dividendo: 345.00%. Novartis AG engages in the research, development, manufacture, distribution, marketing, and sale of pharmaceutical medicines in Switzerland and internationally. The company offers Entresto, an angiotensin receptorneprilysin inhibitor for the treatmen"
+    "retorno_5a": "67.00%",
+    "market_cap": "667,706,261,504.00",
+    "pe_ratio": "34.35",
+    "dividendo": "70.00%",
+    "descripcion": "Visa Inc. es una empresa del sector Financial Services, industria Credit Services, con sede en United States. Capitalizaci\u00f3n burs\u00e1til estimada: 667,706,261,504.00 USD. Ratio P/E: 34.35, rendimiento por dividendo: 70.00%. Visa Inc. operates as a payment technology company in the United States and internationally. The company operates VisaNet, a transaction processing network that enables authorization, clearing, and settlement of payment transactions. It also offers c"
   },
   "BAYRY": {
     "sector": "Healthcare",
@@ -758,27 +769,27 @@
     "dividendo": "41.00%",
     "descripcion": "Bayer Aktiengesellschaft es una empresa del sector Healthcare, industria Drug Manufacturers - General, con sede en Germany. Capitalizaci\u00f3n burs\u00e1til estimada: 30,007,369,728.00 USD. Ratio P/E: N/A, rendimiento por dividendo: 41.00%. Bayer Aktiengesellschaft operates as a life science company worldwide. The company operates through Pharmaceuticals, Consumer Health, and Crop Science segments. The Pharmaceuticals segment provides prescription products primarily for cardiology and w"
   },
-  "OR": {
-    "sector": "Basic Materials",
-    "industria": "Gold",
-    "pais": "Canada",
-    "riesgo": "Moderado",
-    "retorno_5a": "124.00%",
-    "market_cap": "4,869,011,968.00",
-    "pe_ratio": "152.54",
-    "dividendo": "85.00%",
-    "descripcion": "OR Royalties Inc. es una empresa del sector Basic Materials, industria Gold, con sede en Canada. Capitalizaci\u00f3n burs\u00e1til estimada: 4,869,011,968.00 USD. Ratio P/E: 152.54, rendimiento por dividendo: 85.00%. OR Royalties Inc. acquires and manages precious metal and other royalties, streams, and other interests in Canada and internationally. It also owns options on offtake; royalty/stream financings; and exclusive rights to participate in future royalty/s"
-  },
-  "V": {
+  "MA": {
     "sector": "Financial Services",
     "industria": "Credit Services",
     "pais": "United States",
-    "riesgo": "Moderado",
-    "retorno_5a": "67.00%",
-    "market_cap": "667,774,681,088.00",
-    "pe_ratio": "34.36",
-    "dividendo": "70.00%",
-    "descripcion": "Visa Inc. es una empresa del sector Financial Services, industria Credit Services, con sede en United States. Capitalizaci\u00f3n burs\u00e1til estimada: 667,774,681,088.00 USD. Ratio P/E: 34.36, rendimiento por dividendo: 70.00%. Visa Inc. operates as a payment technology company in the United States and internationally. The company operates VisaNet, a transaction processing network that enables authorization, clearing, and settlement of payment transactions. It also offers c"
+    "riesgo": "Alto",
+    "retorno_5a": "52.00%",
+    "market_cap": "489,369,108,480.00",
+    "pe_ratio": "37.74",
+    "dividendo": "57.00%",
+    "descripcion": "Mastercard Incorporated es una empresa del sector Financial Services, industria Credit Services, con sede en United States. Capitalizaci\u00f3n burs\u00e1til estimada: 489,369,108,480.00 USD. Ratio P/E: 37.74, rendimiento por dividendo: 57.00%. Mastercard Incorporated, a technology company, provides transaction processing and other payment-related products and services in the United States and internationally. The company offers integrated products and value-added services for account holde"
+  },
+  "AVGO": {
+    "sector": "Technology",
+    "industria": "Semiconductors",
+    "pais": "United States",
+    "riesgo": "Alto",
+    "retorno_5a": "239.00%",
+    "market_cap": "1,192,800,026,624.00",
+    "pe_ratio": "92.22",
+    "dividendo": "94.00%",
+    "descripcion": "Broadcom Inc. es una empresa del sector Technology, industria Semiconductors, con sede en United States. Capitalizaci\u00f3n burs\u00e1til estimada: 1,192,800,026,624.00 USD. Ratio P/E: 92.22, rendimiento por dividendo: 94.00%. Broadcom Inc. designs, develops, and supplies various semiconductor devices with a focus on complex digital and mixed signal complementary metal oxide semiconductor based devices and analog III-V based products worldwide. The company operates in two "
   },
   "BLK": {
     "sector": "Financial Services",
@@ -797,32 +808,10 @@
     "pais": "United States",
     "riesgo": "Moderado",
     "retorno_5a": "133.00%",
-    "market_cap": "159,857,033,216.00",
-    "pe_ratio": "26.66",
+    "market_cap": "159,711,657,984.00",
+    "pe_ratio": "26.64",
     "dividendo": "121.00%",
-    "descripcion": "The Charles Schwab Corporation es una empresa del sector Financial Services, industria Capital Markets, con sede en United States. Capitalizaci\u00f3n burs\u00e1til estimada: 159,857,033,216.00 USD. Ratio P/E: 26.66, rendimiento por dividendo: 121.00%. The Charles Schwab Corporation, together with its subsidiaries, operates as a savings and loan holding company that provides wealth management, securities brokerage, banking, asset management, custody, and financial advisory services in the United St"
-  },
-  "MA": {
-    "sector": "Financial Services",
-    "industria": "Credit Services",
-    "pais": "United States",
-    "riesgo": "Alto",
-    "retorno_5a": "52.00%",
-    "market_cap": "488,607,121,408.00",
-    "pe_ratio": "37.68",
-    "dividendo": "57.00%",
-    "descripcion": "Mastercard Incorporated es una empresa del sector Financial Services, industria Credit Services, con sede en United States. Capitalizaci\u00f3n burs\u00e1til estimada: 488,607,121,408.00 USD. Ratio P/E: 37.68, rendimiento por dividendo: 57.00%. Mastercard Incorporated, a technology company, provides transaction processing and other payment-related products and services in the United States and internationally. The company offers integrated products and value-added services for account holde"
-  },
-  "AVGO": {
-    "sector": "Technology",
-    "industria": "Semiconductors",
-    "pais": "United States",
-    "riesgo": "Alto",
-    "retorno_5a": "239.00%",
-    "market_cap": "1,191,953,432,576.00",
-    "pe_ratio": "92.15",
-    "dividendo": "94.00%",
-    "descripcion": "Broadcom Inc. es una empresa del sector Technology, industria Semiconductors, con sede en United States. Capitalizaci\u00f3n burs\u00e1til estimada: 1,191,953,432,576.00 USD. Ratio P/E: 92.15, rendimiento por dividendo: 94.00%. Broadcom Inc. designs, develops, and supplies various semiconductor devices with a focus on complex digital and mixed signal complementary metal oxide semiconductor based devices and analog III-V based products worldwide. The company operates in two "
+    "descripcion": "The Charles Schwab Corporation es una empresa del sector Financial Services, industria Capital Markets, con sede en United States. Capitalizaci\u00f3n burs\u00e1til estimada: 159,711,657,984.00 USD. Ratio P/E: 26.64, rendimiento por dividendo: 121.00%. The Charles Schwab Corporation, together with its subsidiaries, operates as a savings and loan holding company that provides wealth management, securities brokerage, banking, asset management, custody, and financial advisory services in the United St"
   },
   "AMD": {
     "sector": "Technology",
@@ -830,21 +819,10 @@
     "pais": "United States",
     "riesgo": "Alto",
     "retorno_5a": "0%",
-    "market_cap": "210,076,696,576.00",
-    "pe_ratio": "94.57",
+    "market_cap": "210,165,874,688.00",
+    "pe_ratio": "94.61",
     "dividendo": "0%",
-    "descripcion": "Advanced Micro Devices, Inc. es una empresa del sector Technology, industria Semiconductors, con sede en United States. Capitalizaci\u00f3n burs\u00e1til estimada: 210,076,696,576.00 USD. Ratio P/E: 94.57, rendimiento por dividendo: 0%. Advanced Micro Devices, Inc. operates as a semiconductor company worldwide. It operates through four segments: Data Center, Client, Gaming, and Embedded. The company offers artificial intelligence (AI) accelerators, x86 microprocessors, and graphics "
-  },
-  "TXN": {
-    "sector": "Technology",
-    "industria": "Semiconductors",
-    "pais": "United States",
-    "riesgo": "Moderado",
-    "retorno_5a": "264.00%",
-    "market_cap": "182,521,118,720.00",
-    "pe_ratio": "38.12",
-    "dividendo": "274.00%",
-    "descripcion": "Texas Instruments Incorporated es una empresa del sector Technology, industria Semiconductors, con sede en United States. Capitalizaci\u00f3n burs\u00e1til estimada: 182,521,118,720.00 USD. Ratio P/E: 38.12, rendimiento por dividendo: 274.00%. Texas Instruments Incorporated designs, manufactures, and sells semiconductors to electronics designers and manufacturers in the United States, China, rest of Asia, Europe, Middle East, Africa, Japan, and internationally. The company operates through"
+    "descripcion": "Advanced Micro Devices, Inc. es una empresa del sector Technology, industria Semiconductors, con sede en United States. Capitalizaci\u00f3n burs\u00e1til estimada: 210,165,874,688.00 USD. Ratio P/E: 94.61, rendimiento por dividendo: 0%. Advanced Micro Devices, Inc. operates as a semiconductor company worldwide. It operates through four segments: Data Center, Client, Gaming, and Embedded. The company offers artificial intelligence (AI) accelerators, x86 microprocessors, and graphics "
   },
   "MU": {
     "sector": "Technology",
@@ -852,10 +830,10 @@
     "pais": "United States",
     "riesgo": "Alto",
     "retorno_5a": "33.00%",
-    "market_cap": "137,159,254,016.00",
-    "pe_ratio": "29.36",
+    "market_cap": "137,256,271,872.00",
+    "pe_ratio": "29.38",
     "dividendo": "37.00%",
-    "descripcion": "Micron Technology, Inc. es una empresa del sector Technology, industria Semiconductors, con sede en United States. Capitalizaci\u00f3n burs\u00e1til estimada: 137,159,254,016.00 USD. Ratio P/E: 29.36, rendimiento por dividendo: 37.00%. Micron Technology, Inc. designs, develops, manufactures, and sells memory and storage products in the United States, Taiwan, Mainland China, rest of the Asia Pacific, Hong Kong, Japan, Europe, and internationally. The company operates through four se"
+    "descripcion": "Micron Technology, Inc. es una empresa del sector Technology, industria Semiconductors, con sede en United States. Capitalizaci\u00f3n burs\u00e1til estimada: 137,256,271,872.00 USD. Ratio P/E: 29.38, rendimiento por dividendo: 37.00%. Micron Technology, Inc. designs, develops, manufactures, and sells memory and storage products in the United States, Taiwan, Mainland China, rest of the Asia Pacific, Hong Kong, Japan, Europe, and internationally. The company operates through four se"
   },
   "F": {
     "sector": "Consumer Cyclical",
@@ -863,21 +841,21 @@
     "pais": "United States",
     "riesgo": "Alto",
     "retorno_5a": "576.00%",
-    "market_cap": "42,589,249,536.00",
-    "pe_ratio": "8.57",
+    "market_cap": "42,562,207,744.00",
+    "pe_ratio": "8.56",
     "dividendo": "708.00%",
-    "descripcion": "Ford Motor Company es una empresa del sector Consumer Cyclical, industria Auto Manufacturers, con sede en United States. Capitalizaci\u00f3n burs\u00e1til estimada: 42,589,249,536.00 USD. Ratio P/E: 8.57, rendimiento por dividendo: 708.00%. Ford Motor Company develops, delivers, and services Ford trucks, sport utility vehicles, commercial vans and cars, and Lincoln luxury vehicles worldwide. It operates through Ford Blue, Ford Model e, Ford Pro, and Ford Credit segments. The company sel"
+    "descripcion": "Ford Motor Company es una empresa del sector Consumer Cyclical, industria Auto Manufacturers, con sede en United States. Capitalizaci\u00f3n burs\u00e1til estimada: 42,562,207,744.00 USD. Ratio P/E: 8.56, rendimiento por dividendo: 708.00%. Ford Motor Company develops, delivers, and services Ford trucks, sport utility vehicles, commercial vans and cars, and Lincoln luxury vehicles worldwide. It operates through Ford Blue, Ford Model e, Ford Pro, and Ford Credit segments. The company sel"
   },
-  "LYFT": {
+  "TXN": {
     "sector": "Technology",
-    "industria": "Software - Application",
+    "industria": "Semiconductors",
     "pais": "United States",
-    "riesgo": "Alto",
-    "retorno_5a": "0%",
-    "market_cap": "6,247,075,328.00",
-    "pe_ratio": "99.01",
-    "dividendo": "0%",
-    "descripcion": "Lyft, Inc. es una empresa del sector Technology, industria Software - Application, con sede en United States. Capitalizaci\u00f3n burs\u00e1til estimada: 6,247,075,328.00 USD. Ratio P/E: 99.01, rendimiento por dividendo: 0%. Lyft, Inc. operates a peer-to-peer marketplace for on-demand ridesharing in the United States and Canada. The company operates multimodal transportation networks that offer access to various transportation options through the Lyft platform and mobile"
+    "riesgo": "Moderado",
+    "retorno_5a": "264.00%",
+    "market_cap": "182,616,506,368.00",
+    "pe_ratio": "38.14",
+    "dividendo": "274.00%",
+    "descripcion": "Texas Instruments Incorporated es una empresa del sector Technology, industria Semiconductors, con sede en United States. Capitalizaci\u00f3n burs\u00e1til estimada: 182,616,506,368.00 USD. Ratio P/E: 38.14, rendimiento por dividendo: 274.00%. Texas Instruments Incorporated designs, manufactures, and sells semiconductors to electronics designers and manufacturers in the United States, China, rest of Asia, Europe, Middle East, Africa, Japan, and internationally. The company operates through"
   },
   "UBER": {
     "sector": "Technology",
@@ -885,10 +863,10 @@
     "pais": "United States",
     "riesgo": "Alto",
     "retorno_5a": "0%",
-    "market_cap": "176,327,458,816.00",
-    "pe_ratio": "14.77",
+    "market_cap": "176,494,755,840.00",
+    "pe_ratio": "14.78",
     "dividendo": "0%",
-    "descripcion": "Uber Technologies, Inc. es una empresa del sector Technology, industria Software - Application, con sede en United States. Capitalizaci\u00f3n burs\u00e1til estimada: 176,327,458,816.00 USD. Ratio P/E: 14.77, rendimiento por dividendo: 0%. Uber Technologies, Inc. develops and operates proprietary technology applications in the United States, Canada, Latin America, Europe, the Middle East, Africa, and the Asia Pacific. It operates through three segments: Mobility, Delivery, and Freight."
+    "descripcion": "Uber Technologies, Inc. es una empresa del sector Technology, industria Software - Application, con sede en United States. Capitalizaci\u00f3n burs\u00e1til estimada: 176,494,755,840.00 USD. Ratio P/E: 14.78, rendimiento por dividendo: 0%. Uber Technologies, Inc. develops and operates proprietary technology applications in the United States, Canada, Latin America, Europe, the Middle East, Africa, and the Asia Pacific. It operates through three segments: Mobility, Delivery, and Freight."
   },
   "GM": {
     "sector": "N/A",
@@ -896,21 +874,10 @@
     "pais": "N/A",
     "riesgo": "Moderado",
     "retorno_5a": "0%",
-    "market_cap": "46,639,210,496.00",
-    "pe_ratio": "6.78",
+    "market_cap": "46,605,561,856.00",
+    "pe_ratio": "6.77",
     "dividendo": "124.00%",
-    "descripcion": "General Motors Company es una empresa del sector N/A, industria N/A, con sede en N/A. Capitalizaci\u00f3n burs\u00e1til estimada: 46,639,210,496.00 USD. Ratio P/E: 6.78, rendimiento por dividendo: 124.00%. GM es un activo financiero relevante."
-  },
-  "FSLR": {
-    "sector": "Technology",
-    "industria": "Solar",
-    "pais": "United States",
-    "riesgo": "Alto",
-    "retorno_5a": "0%",
-    "market_cap": "15,110,678,528.00",
-    "pe_ratio": "11.97",
-    "dividendo": "0%",
-    "descripcion": "First Solar, Inc. es una empresa del sector Technology, industria Solar, con sede en United States. Capitalizaci\u00f3n burs\u00e1til estimada: 15,110,678,528.00 USD. Ratio P/E: 11.97, rendimiento por dividendo: 0%. First Solar, Inc., a solar technology company, provides photovoltaic (PV) solar energy solutions in the United States, France, India, Chile, and internationally. The company manufactures and sells PV solar modules with a thin film semiconductor techn"
+    "descripcion": "General Motors Company es una empresa del sector N/A, industria N/A, con sede en N/A. Capitalizaci\u00f3n burs\u00e1til estimada: 46,605,561,856.00 USD. Ratio P/E: 6.77, rendimiento por dividendo: 124.00%. GM es un activo financiero relevante."
   },
   "ENPH": {
     "sector": "Technology",
@@ -918,10 +885,32 @@
     "pais": "United States",
     "riesgo": "Alto",
     "retorno_5a": "0%",
-    "market_cap": "4,570,635,264.00",
-    "pe_ratio": "31.96",
+    "market_cap": "4,572,563,968.00",
+    "pe_ratio": "31.97",
     "dividendo": "0%",
-    "descripcion": "Enphase Energy, Inc. es una empresa del sector Technology, industria Solar, con sede en United States. Capitalizaci\u00f3n burs\u00e1til estimada: 4,570,635,264.00 USD. Ratio P/E: 31.96, rendimiento por dividendo: 0%. Enphase Energy, Inc., together with its subsidiaries, designs, develops, manufactures, and sells home energy solutions for the solar photovoltaic industry in the United States and internationally. The company offers semiconductor-based microinverter "
+    "descripcion": "Enphase Energy, Inc. es una empresa del sector Technology, industria Solar, con sede en United States. Capitalizaci\u00f3n burs\u00e1til estimada: 4,572,563,968.00 USD. Ratio P/E: 31.97, rendimiento por dividendo: 0%. Enphase Energy, Inc., together with its subsidiaries, designs, develops, manufactures, and sells home energy solutions for the solar photovoltaic industry in the United States and internationally. The company offers semiconductor-based microinverter "
+  },
+  "LYFT": {
+    "sector": "Technology",
+    "industria": "Software - Application",
+    "pais": "United States",
+    "riesgo": "Alto",
+    "retorno_5a": "0%",
+    "market_cap": "6,246,444,544.00",
+    "pe_ratio": "99.00",
+    "dividendo": "0%",
+    "descripcion": "Lyft, Inc. es una empresa del sector Technology, industria Software - Application, con sede en United States. Capitalizaci\u00f3n burs\u00e1til estimada: 6,246,444,544.00 USD. Ratio P/E: 99.00, rendimiento por dividendo: 0%. Lyft, Inc. operates a peer-to-peer marketplace for on-demand ridesharing in the United States and Canada. The company operates multimodal transportation networks that offer access to various transportation options through the Lyft platform and mobile"
+  },
+  "FSLR": {
+    "sector": "Technology",
+    "industria": "Solar",
+    "pais": "United States",
+    "riesgo": "Alto",
+    "retorno_5a": "0%",
+    "market_cap": "15,116,577,792.00",
+    "pe_ratio": "11.98",
+    "dividendo": "0%",
+    "descripcion": "First Solar, Inc. es una empresa del sector Technology, industria Solar, con sede en United States. Capitalizaci\u00f3n burs\u00e1til estimada: 15,116,577,792.00 USD. Ratio P/E: 11.98, rendimiento por dividendo: 0%. First Solar, Inc., a solar technology company, provides photovoltaic (PV) solar energy solutions in the United States, France, India, Chile, and internationally. The company manufactures and sells PV solar modules with a thin film semiconductor techn"
   },
   "PLUG": {
     "sector": "Industrials",
@@ -929,21 +918,10 @@
     "pais": "United States",
     "riesgo": "Alto",
     "retorno_5a": "0%",
-    "market_cap": "1,226,819,200.00",
+    "market_cap": "1,232,552,064.00",
     "pe_ratio": "N/A",
     "dividendo": "0%",
-    "descripcion": "Plug Power Inc. es una empresa del sector Industrials, industria Electrical Equipment & Parts, con sede en United States. Capitalizaci\u00f3n burs\u00e1til estimada: 1,226,819,200.00 USD. Ratio P/E: N/A, rendimiento por dividendo: 0%. Plug Power Inc. develops hydrogen fuel cells product solutions in North America, Europe, Asia, and internationally. The company offers GenDrive, a hydrogen fueled proton exchange membrane (PEM) fuel cell system that provides power to material handlin"
-  },
-  "REGN": {
-    "sector": "Healthcare",
-    "industria": "Biotechnology",
-    "pais": "United States",
-    "riesgo": "Moderado",
-    "retorno_5a": "0%",
-    "market_cap": "55,170,113,536.00",
-    "pe_ratio": "12.99",
-    "dividendo": "69.00%",
-    "descripcion": "Regeneron Pharmaceuticals, Inc. es una empresa del sector Healthcare, industria Biotechnology, con sede en United States. Capitalizaci\u00f3n burs\u00e1til estimada: 55,170,113,536.00 USD. Ratio P/E: 12.99, rendimiento por dividendo: 69.00%. Regeneron Pharmaceuticals, Inc. discovers, invents, develops, manufactures, and commercializes medicines for treating various diseases worldwide. The company's products include EYLEA injection to treat wet age-related macular degeneration and diabeti"
+    "descripcion": "Plug Power Inc. es una empresa del sector Industrials, industria Electrical Equipment & Parts, con sede en United States. Capitalizaci\u00f3n burs\u00e1til estimada: 1,232,552,064.00 USD. Ratio P/E: N/A, rendimiento por dividendo: 0%. Plug Power Inc. develops hydrogen fuel cells product solutions in North America, Europe, Asia, and internationally. The company offers GenDrive, a hydrogen fueled proton exchange membrane (PEM) fuel cell system that provides power to material handlin"
   },
   "NEE": {
     "sector": "Utilities",
@@ -951,10 +929,10 @@
     "pais": "United States",
     "riesgo": "Moderado",
     "retorno_5a": "234.00%",
-    "market_cap": "144,890,085,376.00",
-    "pe_ratio": "26.36",
+    "market_cap": "144,804,020,224.00",
+    "pe_ratio": "26.34",
     "dividendo": "317.00%",
-    "descripcion": "NextEra Energy, Inc. es una empresa del sector Utilities, industria Utilities - Regulated Electric, con sede en United States. Capitalizaci\u00f3n burs\u00e1til estimada: 144,890,085,376.00 USD. Ratio P/E: 26.36, rendimiento por dividendo: 317.00%. NextEra Energy, Inc., through its subsidiaries, generates, transmits, distributes, and sells electric power to retail and wholesale customers in North America. The company generates electricity through wind, solar, nuclear, natural gas, and other cle"
+    "descripcion": "NextEra Energy, Inc. es una empresa del sector Utilities, industria Utilities - Regulated Electric, con sede en United States. Capitalizaci\u00f3n burs\u00e1til estimada: 144,804,020,224.00 USD. Ratio P/E: 26.34, rendimiento por dividendo: 317.00%. NextEra Energy, Inc., through its subsidiaries, generates, transmits, distributes, and sells electric power to retail and wholesale customers in North America. The company generates electricity through wind, solar, nuclear, natural gas, and other cle"
   },
   "LLY": {
     "sector": "Healthcare",
@@ -962,10 +940,10 @@
     "pais": "United States",
     "riesgo": "Moderado",
     "retorno_5a": "111.00%",
-    "market_cap": "691,220,840,448.00",
+    "market_cap": "691,247,710,208.00",
     "pe_ratio": "62.70",
     "dividendo": "79.00%",
-    "descripcion": "Eli Lilly and Company es una empresa del sector Healthcare, industria Drug Manufacturers - General, con sede en United States. Capitalizaci\u00f3n burs\u00e1til estimada: 691,220,840,448.00 USD. Ratio P/E: 62.70, rendimiento por dividendo: 79.00%. Eli Lilly and Company discovers, develops, and markets human pharmaceuticals in the United States, Europe, China, Japan, and internationally. The company offers Basaglar, Humalog, Humalog Mix 75/25, Humalog U-100, Humalog U-200, Humalog Mix 50/50, in"
+    "descripcion": "Eli Lilly and Company es una empresa del sector Healthcare, industria Drug Manufacturers - General, con sede en United States. Capitalizaci\u00f3n burs\u00e1til estimada: 691,247,710,208.00 USD. Ratio P/E: 62.70, rendimiento por dividendo: 79.00%. Eli Lilly and Company discovers, develops, and markets human pharmaceuticals in the United States, Europe, China, Japan, and internationally. The company offers Basaglar, Humalog, Humalog Mix 75/25, Humalog U-100, Humalog U-200, Humalog Mix 50/50, in"
   },
   "BMY": {
     "sector": "Healthcare",
@@ -973,10 +951,21 @@
     "pais": "United States",
     "riesgo": "Moderado",
     "retorno_5a": "359.00%",
-    "market_cap": "94,691,450,880.00",
-    "pe_ratio": "17.36",
+    "market_cap": "94,641,397,760.00",
+    "pe_ratio": "17.35",
     "dividendo": "529.00%",
-    "descripcion": "Bristol-Myers Squibb Company es una empresa del sector Healthcare, industria Drug Manufacturers - General, con sede en United States. Capitalizaci\u00f3n burs\u00e1til estimada: 94,691,450,880.00 USD. Ratio P/E: 17.36, rendimiento por dividendo: 529.00%. Bristol-Myers Squibb Company discovers, develops, licenses, manufactures, markets, distributes, and sells biopharmaceutical products worldwide. It offers products for oncology, hematology, immunology, cardiovascular, neuroscience, and other areas. Th"
+    "descripcion": "Bristol-Myers Squibb Company es una empresa del sector Healthcare, industria Drug Manufacturers - General, con sede en United States. Capitalizaci\u00f3n burs\u00e1til estimada: 94,641,397,760.00 USD. Ratio P/E: 17.35, rendimiento por dividendo: 529.00%. Bristol-Myers Squibb Company discovers, develops, licenses, manufactures, markets, distributes, and sells biopharmaceutical products worldwide. It offers products for oncology, hematology, immunology, cardiovascular, neuroscience, and other areas. Th"
+  },
+  "VRTX": {
+    "sector": "Healthcare",
+    "industria": "Biotechnology",
+    "pais": "United States",
+    "riesgo": "Moderado",
+    "retorno_5a": "0%",
+    "market_cap": "113,252,605,952.00",
+    "pe_ratio": "N/A",
+    "dividendo": "0%",
+    "descripcion": "Vertex Pharmaceuticals Incorporated es una empresa del sector Healthcare, industria Biotechnology, con sede en United States. Capitalizaci\u00f3n burs\u00e1til estimada: 113,252,605,952.00 USD. Ratio P/E: N/A, rendimiento por dividendo: 0%. Vertex Pharmaceuticals Incorporated, a biotechnology company, engages in developing and commercializing therapies for treating cystic fibrosis (CF). It markets TRIKAFTA/KAFTRIO for people with CF with at least one F508del mutation for 2 years of age "
   },
   "LOW": {
     "sector": "Consumer Cyclical",
@@ -984,10 +973,10 @@
     "pais": "United States",
     "riesgo": "Moderado",
     "retorno_5a": "167.00%",
-    "market_cap": "121,780,379,648.00",
-    "pe_ratio": "17.99",
+    "market_cap": "121,704,718,336.00",
+    "pe_ratio": "17.98",
     "dividendo": "226.00%",
-    "descripcion": "Lowe's Companies, Inc. es una empresa del sector Consumer Cyclical, industria Home Improvement Retail, con sede en United States. Capitalizaci\u00f3n burs\u00e1til estimada: 121,780,379,648.00 USD. Ratio P/E: 17.99, rendimiento por dividendo: 226.00%. Lowe's Companies, Inc., together with its subsidiaries, operates as a home improvement retailer in the United States. It provides a line of products for construction, maintenance, repair, remodeling, and decorating. The company also offers home impro"
+    "descripcion": "Lowe's Companies, Inc. es una empresa del sector Consumer Cyclical, industria Home Improvement Retail, con sede en United States. Capitalizaci\u00f3n burs\u00e1til estimada: 121,704,718,336.00 USD. Ratio P/E: 17.98, rendimiento por dividendo: 226.00%. Lowe's Companies, Inc., together with its subsidiaries, operates as a home improvement retailer in the United States. It provides a line of products for construction, maintenance, repair, remodeling, and decorating. The company also offers home impro"
   },
   "TGT": {
     "sector": "Consumer Defensive",
@@ -1000,60 +989,16 @@
     "dividendo": "471.00%",
     "descripcion": "Target Corporation es una empresa del sector Consumer Defensive, industria Discount Stores, con sede en United States. Capitalizaci\u00f3n burs\u00e1til estimada: 43,669,118,976.00 USD. Ratio P/E: 10.56, rendimiento por dividendo: 471.00%. Target Corporation operates as a general merchandise retailer in the United States. The company offers apparel for women, men, young adults, kids, toddlers, and babies, as well as jewelry, accessories, and shoes; and beauty products, such as skin and"
   },
-  "VRTX": {
+  "REGN": {
     "sector": "Healthcare",
     "industria": "Biotechnology",
     "pais": "United States",
     "riesgo": "Moderado",
     "retorno_5a": "0%",
-    "market_cap": "113,508,122,624.00",
-    "pe_ratio": "N/A",
-    "dividendo": "0%",
-    "descripcion": "Vertex Pharmaceuticals Incorporated es una empresa del sector Healthcare, industria Biotechnology, con sede en United States. Capitalizaci\u00f3n burs\u00e1til estimada: 113,508,122,624.00 USD. Ratio P/E: N/A, rendimiento por dividendo: 0%. Vertex Pharmaceuticals Incorporated, a biotechnology company, engages in developing and commercializing therapies for treating cystic fibrosis (CF). It markets TRIKAFTA/KAFTRIO for people with CF with at least one F508del mutation for 2 years of age "
-  },
-  "ULTA": {
-    "sector": "Consumer Cyclical",
-    "industria": "Specialty Retail",
-    "pais": "United States",
-    "riesgo": "Alto",
-    "retorno_5a": "0%",
-    "market_cap": "21,285,337,088.00",
-    "pe_ratio": "18.51",
-    "dividendo": "0%",
-    "descripcion": "Ulta Beauty, Inc. es una empresa del sector Consumer Cyclical, industria Specialty Retail, con sede en United States. Capitalizaci\u00f3n burs\u00e1til estimada: 21,285,337,088.00 USD. Ratio P/E: 18.51, rendimiento por dividendo: 0%. Ulta Beauty, Inc. operates as a specialty beauty retailer in the United States. The company offers branded and private label beauty products, including cosmetics, fragrance, haircare, skincare, bath and body products, professional hair products, and "
-  },
-  "SBUX": {
-    "sector": "Consumer Cyclical",
-    "industria": "Restaurants",
-    "pais": "United States",
-    "riesgo": "Moderado",
-    "retorno_5a": "211.00%",
-    "market_cap": "104,986,312,704.00",
-    "pe_ratio": "33.59",
-    "dividendo": "262.00%",
-    "descripcion": "Starbucks Corporation es una empresa del sector Consumer Cyclical, industria Restaurants, con sede en United States. Capitalizaci\u00f3n burs\u00e1til estimada: 104,986,312,704.00 USD. Ratio P/E: 33.59, rendimiento por dividendo: 262.00%. Starbucks Corporation, together with its subsidiaries, operates as a roaster, marketer, and retailer of coffee worldwide. The company operates through three segments: North America, International, and Channel Development. Its stores offer coffee, tea"
-  },
-  "NFLX": {
-    "sector": "Communication Services",
-    "industria": "Entertainment",
-    "pais": "United States",
-    "riesgo": "Alto",
-    "retorno_5a": "0%",
-    "market_cap": "531,223,281,664.00",
-    "pe_ratio": "58.94",
-    "dividendo": "0%",
-    "descripcion": "Netflix, Inc. es una empresa del sector Communication Services, industria Entertainment, con sede en United States. Capitalizaci\u00f3n burs\u00e1til estimada: 531,223,281,664.00 USD. Ratio P/E: 58.94, rendimiento por dividendo: 0%. Netflix, Inc. provides entertainment services. The company offers television (TV) series, documentaries, feature films, and games across various genres and languages. It also provides members the ability to receive streaming content through a host of"
-  },
-  "TMUS": {
-    "sector": "Communication Services",
-    "industria": "Telecom Services",
-    "pais": "United States",
-    "riesgo": "Moderado",
-    "retorno_5a": "0%",
-    "market_cap": "256,180,224,000.00",
-    "pe_ratio": "22.05",
-    "dividendo": "159.00%",
-    "descripcion": "T-Mobile US, Inc. es una empresa del sector Communication Services, industria Telecom Services, con sede en United States. Capitalizaci\u00f3n burs\u00e1til estimada: 256,180,224,000.00 USD. Ratio P/E: 22.05, rendimiento por dividendo: 159.00%. T-Mobile US, Inc., together with its subsidiaries, provides wireless communications services in the United States, Puerto Rico, and the United States Virgin Islands. The company offers voice, messaging, and data services to postpaid, prepaid, and who"
+    "market_cap": "55,055,671,296.00",
+    "pe_ratio": "12.96",
+    "dividendo": "69.00%",
+    "descripcion": "Regeneron Pharmaceuticals, Inc. es una empresa del sector Healthcare, industria Biotechnology, con sede en United States. Capitalizaci\u00f3n burs\u00e1til estimada: 55,055,671,296.00 USD. Ratio P/E: 12.96, rendimiento por dividendo: 69.00%. Regeneron Pharmaceuticals, Inc. discovers, invents, develops, manufactures, and commercializes medicines for treating various diseases worldwide. The company's products include EYLEA injection to treat wet age-related macular degeneration and diabeti"
   },
   "DIS": {
     "sector": "Communication Services",
@@ -1061,10 +1006,54 @@
     "pais": "United States",
     "riesgo": "Alto",
     "retorno_5a": "138.00%",
-    "market_cap": "211,595,165,696.00",
-    "pe_ratio": "23.97",
+    "market_cap": "211,631,128,576.00",
+    "pe_ratio": "23.98",
     "dividendo": "85.00%",
-    "descripcion": "The Walt Disney Company es una empresa del sector Communication Services, industria Entertainment, con sede en United States. Capitalizaci\u00f3n burs\u00e1til estimada: 211,595,165,696.00 USD. Ratio P/E: 23.97, rendimiento por dividendo: 85.00%. The Walt Disney Company operates as an entertainment company worldwide. It operates through three segments: Entertainment, Sports, and Experiences. The company produces and distributes film and television content under the ABC Television Network, Dis"
+    "descripcion": "The Walt Disney Company es una empresa del sector Communication Services, industria Entertainment, con sede en United States. Capitalizaci\u00f3n burs\u00e1til estimada: 211,631,128,576.00 USD. Ratio P/E: 23.98, rendimiento por dividendo: 85.00%. The Walt Disney Company operates as an entertainment company worldwide. It operates through three segments: Entertainment, Sports, and Experiences. The company produces and distributes film and television content under the ABC Television Network, Dis"
+  },
+  "NFLX": {
+    "sector": "Communication Services",
+    "industria": "Entertainment",
+    "pais": "United States",
+    "riesgo": "Alto",
+    "retorno_5a": "0%",
+    "market_cap": "531,131,793,408.00",
+    "pe_ratio": "58.93",
+    "dividendo": "0%",
+    "descripcion": "Netflix, Inc. es una empresa del sector Communication Services, industria Entertainment, con sede en United States. Capitalizaci\u00f3n burs\u00e1til estimada: 531,131,793,408.00 USD. Ratio P/E: 58.93, rendimiento por dividendo: 0%. Netflix, Inc. provides entertainment services. The company offers television (TV) series, documentaries, feature films, and games across various genres and languages. It also provides members the ability to receive streaming content through a host of"
+  },
+  "SBUX": {
+    "sector": "Consumer Cyclical",
+    "industria": "Restaurants",
+    "pais": "United States",
+    "riesgo": "Moderado",
+    "retorno_5a": "211.00%",
+    "market_cap": "104,932,564,992.00",
+    "pe_ratio": "33.58",
+    "dividendo": "262.00%",
+    "descripcion": "Starbucks Corporation es una empresa del sector Consumer Cyclical, industria Restaurants, con sede en United States. Capitalizaci\u00f3n burs\u00e1til estimada: 104,932,564,992.00 USD. Ratio P/E: 33.58, rendimiento por dividendo: 262.00%. Starbucks Corporation, together with its subsidiaries, operates as a roaster, marketer, and retailer of coffee worldwide. The company operates through three segments: North America, International, and Channel Development. Its stores offer coffee, tea"
+  },
+  "ULTA": {
+    "sector": "Consumer Cyclical",
+    "industria": "Specialty Retail",
+    "pais": "United States",
+    "riesgo": "Alto",
+    "retorno_5a": "0%",
+    "market_cap": "21,238,145,024.00",
+    "pe_ratio": "18.47",
+    "dividendo": "0%",
+    "descripcion": "Ulta Beauty, Inc. es una empresa del sector Consumer Cyclical, industria Specialty Retail, con sede en United States. Capitalizaci\u00f3n burs\u00e1til estimada: 21,238,145,024.00 USD. Ratio P/E: 18.47, rendimiento por dividendo: 0%. Ulta Beauty, Inc. operates as a specialty beauty retailer in the United States. The company offers branded and private label beauty products, including cosmetics, fragrance, haircare, skincare, bath and body products, professional hair products, and "
+  },
+  "TMUS": {
+    "sector": "Communication Services",
+    "industria": "Telecom Services",
+    "pais": "United States",
+    "riesgo": "Moderado",
+    "retorno_5a": "0%",
+    "market_cap": "256,163,184,640.00",
+    "pe_ratio": "22.05",
+    "dividendo": "159.00%",
+    "descripcion": "T-Mobile US, Inc. es una empresa del sector Communication Services, industria Telecom Services, con sede en United States. Capitalizaci\u00f3n burs\u00e1til estimada: 256,163,184,640.00 USD. Ratio P/E: 22.05, rendimiento por dividendo: 159.00%. T-Mobile US, Inc., together with its subsidiaries, provides wireless communications services in the United States, Puerto Rico, and the United States Virgin Islands. The company offers voice, messaging, and data services to postpaid, prepaid, and who"
   },
   "CMCSA": {
     "sector": "Communication Services",
@@ -1072,21 +1061,10 @@
     "pais": "United States",
     "riesgo": "Moderado",
     "retorno_5a": "253.00%",
-    "market_cap": "128,457,949,184.00",
+    "market_cap": "128,420,618,240.00",
     "pe_ratio": "8.47",
     "dividendo": "382.00%",
-    "descripcion": "Comcast Corporation es una empresa del sector Communication Services, industria Telecom Services, con sede en United States. Capitalizaci\u00f3n burs\u00e1til estimada: 128,457,949,184.00 USD. Ratio P/E: 8.47, rendimiento por dividendo: 382.00%. Comcast Corporation operates as a media and technology company worldwide. It operates through Residential Connectivity & Platforms, Business Services Connectivity, Media, Studios, and Theme Parks segments. The Residential Connectivity & Platforms seg"
-  },
-  "ARKW": {
-    "sector": "N/A",
-    "industria": "N/A",
-    "pais": "N/A",
-    "riesgo": "Moderado",
-    "retorno_5a": "0%",
-    "market_cap": "Desconocida",
-    "pe_ratio": "36.57",
-    "dividendo": "0.00%",
-    "descripcion": "ARK Next Generation Internet ETF es una empresa del sector N/A, industria N/A, con sede en N/A. Capitalizaci\u00f3n burs\u00e1til estimada: Desconocida USD. Ratio P/E: 36.57, rendimiento por dividendo: 0.00%. The fund is an actively-managed exchange-traded fund (\"ETF\") that will invest under normal circumstances primarily (at least 80% of its assets) in domestic and foreign equity securities of companies that are relevant to the fund's investment theme of"
+    "descripcion": "Comcast Corporation es una empresa del sector Communication Services, industria Telecom Services, con sede en United States. Capitalizaci\u00f3n burs\u00e1til estimada: 128,420,618,240.00 USD. Ratio P/E: 8.47, rendimiento por dividendo: 382.00%. Comcast Corporation operates as a media and technology company worldwide. It operates through Residential Connectivity & Platforms, Business Services Connectivity, Media, Studios, and Theme Parks segments. The Residential Connectivity & Platforms seg"
   },
   "IEMG": {
     "sector": "N/A",
@@ -1094,10 +1072,21 @@
     "pais": "N/A",
     "riesgo": "Moderado",
     "retorno_5a": "0%",
-    "market_cap": "66,752,155,648.00",
-    "pe_ratio": "14.39",
+    "market_cap": "66,763,661,312.00",
+    "pe_ratio": "14.40",
     "dividendo": "295.00%",
-    "descripcion": "iShares Core MSCI Emerging Markets ETF es una empresa del sector N/A, industria N/A, con sede en N/A. Capitalizaci\u00f3n burs\u00e1til estimada: 66,752,155,648.00 USD. Ratio P/E: 14.39, rendimiento por dividendo: 295.00%. The fund generally will invest at least 80% of its assets in the component securities of the underlying index and in investments that have economic characteristics that are substantially identical to the component securities of the underlying index. "
+    "descripcion": "iShares Core MSCI Emerging Markets ETF es una empresa del sector N/A, industria N/A, con sede en N/A. Capitalizaci\u00f3n burs\u00e1til estimada: 66,763,661,312.00 USD. Ratio P/E: 14.40, rendimiento por dividendo: 295.00%. The fund generally will invest at least 80% of its assets in the component securities of the underlying index and in investments that have economic characteristics that are substantially identical to the component securities of the underlying index. "
+  },
+  "REMX": {
+    "sector": "N/A",
+    "industria": "N/A",
+    "pais": "N/A",
+    "riesgo": "Moderado",
+    "retorno_5a": "0%",
+    "market_cap": "Desconocida",
+    "pe_ratio": "20.05",
+    "dividendo": "274.00%",
+    "descripcion": "VanEck Rare Earth and Strategic Metals ETF es una empresa del sector N/A, industria N/A, con sede en N/A. Capitalizaci\u00f3n burs\u00e1til estimada: Desconocida USD. Ratio P/E: 20.05, rendimiento por dividendo: 274.00%. The fund normally invests at least 80% of its total assets in securities that comprise the fund's benchmark index. The index includes companies primarily engaged in a variety of activities that are related to the producing, refining and recycling of "
   },
   "XBI": {
     "sector": "N/A",
@@ -1110,6 +1099,50 @@
     "dividendo": "17.00%",
     "descripcion": "SPDR S&P Biotech ETF es una empresa del sector N/A, industria N/A, con sede en N/A. Capitalizaci\u00f3n burs\u00e1til estimada: Desconocida USD. Ratio P/E: N/A, rendimiento por dividendo: 17.00%. In seeking to track the performance of the S&P Biotechnology Select Industry Index (the \"index\"), the fund employs a sampling strategy. It generally invests substantially all, but at least 80%, of its total assets in the securities comprising the ind"
   },
+  "ARKW": {
+    "sector": "N/A",
+    "industria": "N/A",
+    "pais": "N/A",
+    "riesgo": "Moderado",
+    "retorno_5a": "0%",
+    "market_cap": "Desconocida",
+    "pe_ratio": "36.57",
+    "dividendo": "0.00%",
+    "descripcion": "ARK Next Generation Internet ETF es una empresa del sector N/A, industria N/A, con sede en N/A. Capitalizaci\u00f3n burs\u00e1til estimada: Desconocida USD. Ratio P/E: 36.57, rendimiento por dividendo: 0.00%. The fund is an actively-managed exchange-traded fund (\"ETF\") that will invest under normal circumstances primarily (at least 80% of its assets) in domestic and foreign equity securities of companies that are relevant to the fund's investment theme of"
+  },
+  "VNQ": {
+    "sector": "N/A",
+    "industria": "N/A",
+    "pais": "N/A",
+    "riesgo": "Moderado",
+    "retorno_5a": "0%",
+    "market_cap": "33,590,259,712.00",
+    "pe_ratio": "33.27",
+    "dividendo": "407.00%",
+    "descripcion": "Vanguard Real Estate Index Fund ETF Shares es una empresa del sector N/A, industria N/A, con sede en N/A. Capitalizaci\u00f3n burs\u00e1til estimada: 33,590,259,712.00 USD. Ratio P/E: 33.27, rendimiento por dividendo: 407.00%. The advisor attempts to track the index by investing all, or substantially all, of its assets-either directly or indirectly through a wholly owned subsidiary, which is itself a registered investment company-in the stocks that make up the index, holdi"
+  },
+  "AMT": {
+    "sector": "Real Estate",
+    "industria": "REIT - Specialty",
+    "pais": "United States",
+    "riesgo": "Moderado",
+    "retorno_5a": "258.00%",
+    "market_cap": "103,293,100,032.00",
+    "pe_ratio": "35.70",
+    "dividendo": "313.00%",
+    "descripcion": "American Tower Corporation es una empresa del sector Real Estate, industria REIT - Specialty, con sede en United States. Capitalizaci\u00f3n burs\u00e1til estimada: 103,293,100,032.00 USD. Ratio P/E: 35.70, rendimiento por dividendo: 313.00%. American Tower, one of the largest global REITs, is a leading independent owner, operator and developer of multitenant communications real estate with a portfolio of over 149,000 communications sites and a highly interconnected footprint of U.S. data"
+  },
+  "PLD": {
+    "sector": "Real Estate",
+    "industria": "REIT - Industrial",
+    "pais": "United States",
+    "riesgo": "Alto",
+    "retorno_5a": "255.00%",
+    "market_cap": "98,694,209,536.00",
+    "pe_ratio": "26.52",
+    "dividendo": "382.00%",
+    "descripcion": "Prologis, Inc. es una empresa del sector Real Estate, industria REIT - Industrial, con sede en United States. Capitalizaci\u00f3n burs\u00e1til estimada: 98,694,209,536.00 USD. Ratio P/E: 26.52, rendimiento por dividendo: 382.00%. Prologis, Inc., is the global leader in logistics real estate with a focus on high-barrier, high-growth markets. At March 31, 2025, the company owned or had investments in, on a wholly owned basis or through co-investment ventures, properties and dev"
+  },
   "URA": {
     "sector": "N/A",
     "industria": "N/A",
@@ -1117,20 +1150,9 @@
     "riesgo": "Moderado",
     "retorno_5a": "0%",
     "market_cap": "Desconocida",
-    "pe_ratio": "28.74",
+    "pe_ratio": "28.75",
     "dividendo": "239.00%",
-    "descripcion": "Global X Uranium ETF es una empresa del sector N/A, industria N/A, con sede en N/A. Capitalizaci\u00f3n burs\u00e1til estimada: Desconocida USD. Ratio P/E: 28.74, rendimiento por dividendo: 239.00%. The fund invests at least 80% of its total assets in the securities of the underlying index and in American Depositary Receipts (\"ADRs\") and Global Depositary Receipts (\"GDRs\") based on the securities in the underlying index. The underlying index is "
-  },
-  "REMX": {
-    "sector": "N/A",
-    "industria": "N/A",
-    "pais": "N/A",
-    "riesgo": "Moderado",
-    "retorno_5a": "0%",
-    "market_cap": "Desconocida",
-    "pe_ratio": "20.07",
-    "dividendo": "274.00%",
-    "descripcion": "VanEck Rare Earth and Strategic Metals ETF es una empresa del sector N/A, industria N/A, con sede en N/A. Capitalizaci\u00f3n burs\u00e1til estimada: Desconocida USD. Ratio P/E: 20.07, rendimiento por dividendo: 274.00%. The fund normally invests at least 80% of its total assets in securities that comprise the fund's benchmark index. The index includes companies primarily engaged in a variety of activities that are related to the producing, refining and recycling of "
+    "descripcion": "Global X Uranium ETF es una empresa del sector N/A, industria N/A, con sede en N/A. Capitalizaci\u00f3n burs\u00e1til estimada: Desconocida USD. Ratio P/E: 28.75, rendimiento por dividendo: 239.00%. The fund invests at least 80% of its total assets in the securities of the underlying index and in American Depositary Receipts (\"ADRs\") and Global Depositary Receipts (\"GDRs\") based on the securities in the underlying index. The underlying index is "
   },
   "TAN": {
     "sector": "N/A",
@@ -1139,41 +1161,19 @@
     "riesgo": "Moderado",
     "retorno_5a": "0%",
     "market_cap": "Desconocida",
-    "pe_ratio": "15.49",
+    "pe_ratio": "15.48",
     "dividendo": "51.00%",
-    "descripcion": "Invesco Solar ETF es una empresa del sector N/A, industria N/A, con sede en N/A. Capitalizaci\u00f3n burs\u00e1til estimada: Desconocida USD. Ratio P/E: 15.49, rendimiento por dividendo: 51.00%. The fund will generally invest at least 90% of its total assets in the securities that comprise the underlying index. Strictly in accordance with its guidelines and mandated procedures, MAC Indexing LLC, has contracted with S&P DJI Netherlands B.V. t"
+    "descripcion": "Invesco Solar ETF es una empresa del sector N/A, industria N/A, con sede en N/A. Capitalizaci\u00f3n burs\u00e1til estimada: Desconocida USD. Ratio P/E: 15.48, rendimiento por dividendo: 51.00%. The fund will generally invest at least 90% of its total assets in the securities that comprise the underlying index. Strictly in accordance with its guidelines and mandated procedures, MAC Indexing LLC, has contracted with S&P DJI Netherlands B.V. t"
   },
-  "AMT": {
-    "sector": "Real Estate",
-    "industria": "REIT - Specialty",
-    "pais": "United States",
-    "riesgo": "Moderado",
-    "retorno_5a": "258.00%",
-    "market_cap": "103,312,900,096.00",
-    "pe_ratio": "35.71",
-    "dividendo": "313.00%",
-    "descripcion": "American Tower Corporation es una empresa del sector Real Estate, industria REIT - Specialty, con sede en United States. Capitalizaci\u00f3n burs\u00e1til estimada: 103,312,900,096.00 USD. Ratio P/E: 35.71, rendimiento por dividendo: 313.00%. American Tower, one of the largest global REITs, is a leading independent owner, operator and developer of multitenant communications real estate with a portfolio of over 149,000 communications sites and a highly interconnected footprint of U.S. data"
-  },
-  "VNQ": {
+  "IXUS": {
     "sector": "N/A",
     "industria": "N/A",
     "pais": "N/A",
     "riesgo": "Moderado",
     "retorno_5a": "0%",
-    "market_cap": "33,597,628,416.00",
-    "pe_ratio": "33.28",
-    "dividendo": "407.00%",
-    "descripcion": "Vanguard Real Estate Index Fund ETF Shares es una empresa del sector N/A, industria N/A, con sede en N/A. Capitalizaci\u00f3n burs\u00e1til estimada: 33,597,628,416.00 USD. Ratio P/E: 33.28, rendimiento por dividendo: 407.00%. The advisor attempts to track the index by investing all, or substantially all, of its assets-either directly or indirectly through a wholly owned subsidiary, which is itself a registered investment company-in the stocks that make up the index, holdi"
-  },
-  "PLD": {
-    "sector": "Real Estate",
-    "industria": "REIT - Industrial",
-    "pais": "United States",
-    "riesgo": "Alto",
-    "retorno_5a": "255.00%",
-    "market_cap": "98,712,764,416.00",
-    "pe_ratio": "26.53",
-    "dividendo": "382.00%",
-    "descripcion": "Prologis, Inc. es una empresa del sector Real Estate, industria REIT - Industrial, con sede en United States. Capitalizaci\u00f3n burs\u00e1til estimada: 98,712,764,416.00 USD. Ratio P/E: 26.53, rendimiento por dividendo: 382.00%. Prologis, Inc., is the global leader in logistics real estate with a focus on high-barrier, high-growth markets. At March 31, 2025, the company owned or had investments in, on a wholly owned basis or through co-investment ventures, properties and dev"
+    "market_cap": "Desconocida",
+    "pe_ratio": "15.87",
+    "dividendo": "292.00%",
+    "descripcion": "iShares Core MSCI Total International Stock ETF es una empresa del sector N/A, industria N/A, con sede en N/A. Capitalizaci\u00f3n burs\u00e1til estimada: Desconocida USD. Ratio P/E: 15.87, rendimiento por dividendo: 292.00%. The fund generally will invest at least 80% of its assets in the component securities of its underlying index and in investments that have economic characteristics that are substantially identical to the component securities of its underlying index. "
   }
 }

@@ -23,8 +23,8 @@ ASSETS_PATH = Path(__file__).resolve().parent / "data" / "assets_info.json"
 
 @app.post("/recomendar")
 def recomendar(user: UserProfile):
-    tickers = cargar_tickers_desde_txt()
-    build_asset_info(tickers)
+    # tickers = cargar_tickers_desde_txt()  ❌ Ya no hace falta
+    # build_asset_info(tickers)             ❌ Ya no hace falta
 
     with open(ASSETS_PATH, "r") as f:
         activos = json.load(f)
